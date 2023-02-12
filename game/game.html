@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spielen</title>
+    <link rel="stylesheet" href="../index.css">
+    <link rel="icon" type="image/x-icon" href="../0Bilder/icon.ico">
+</head>
+<body>
+
+    <button class="MinecraftDesign" style="left: 0px; top: 0px; position: absolute;" title="Zum Startmenü" id="home" onclick="window.location.href = 'gameMenue/gameMenue.html'"><img src="../0Bilder/back_arrow.png" /></button>
+
+    <div id="QuestionDiv">
+        <div class="HeadlineDiv">
+            <h1 id="Question" class="MinecraftDesign Hover">Frage</h1>
+        </div>
+    
+        <div id="ChoiceDiv">    
+            <div class="ChoiceDiv2"><button title="Frage 1" class="MinecraftDesign Choice" id="Choice1" onclick="ChoiseButtonClick(this); ButtonClickSound.play();">Frage 1</button></div>
+            <div class="ChoiceDiv2"><button title="Frage 2" class="MinecraftDesign Choice" id="Choice2" onclick="ChoiseButtonClick(this); ButtonClickSound.play();">Frage 2</button></div>
+            <div class="ChoiceDiv2"><button title="Frage 3" class="MinecraftDesign Choice" id="Choice3" onclick="ChoiseButtonClick(this); ButtonClickSound.play();">Frage 3</button></div>
+        </div>
+
+
+        <div id="snackbar">
+            <p id="snackbarText"></p>
+        </div>
+
+
+        <script src="gameManager.js"></script>
+</body>
+</html>
