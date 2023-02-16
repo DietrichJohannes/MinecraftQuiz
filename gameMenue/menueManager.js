@@ -11,7 +11,7 @@ function changeText(mode, modeString){
 
 function startGame(){
    if(modeSelected){
-   window.open("../game.html?mode=" + modeInt, "_self");
+   window.open("../game/game.html?mode=" + modeInt, "_self");
    }else{
     // Get the snackbar DIV
   var x = document.getElementById("snackbar");

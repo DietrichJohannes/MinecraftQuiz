@@ -1,7 +1,9 @@
-
-getURLMode();
   var Mode;
 
+
+
+getURLMode();
+loadData();
 
 function getURLMode(){
 
@@ -40,6 +42,27 @@ function getMode(){
       break;
   }
 }
+
+
+
+
+function loadData(){
+  fetch("data.json")
+  .then(response => response.json())
+  .then(data => {
+    // do something with the data
+    console.log(data.name);
+    console.log(data.age);
+    console.log(data.city);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+}
+
+
+
+
 
 function Snackbar(text){
   // Get the snackbar DIV
