@@ -1,6 +1,20 @@
 {
-    "name": "John",
-    "age": 30,
-    "city": "New York"
-  }
-  
+  "quiz": [
+    {
+      "question": "Frage 1",
+      "answers": [
+        { "answer": "A1", "correct": false },
+        { "answer": "A2", "correct": false },
+        { "answer": "A3", "correct": true },
+      ]
+    },
+    {
+        "question": "Frage 2",
+        "answer": [
+        { "answer": "B1", "correct": false},
+        { "answer": "B2", "correct": true}, 
+        { "answer": "B3", "correct": false},
+        ]
+    }
+    ]
+}
