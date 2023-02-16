@@ -1,6 +1,4 @@
 {
-  "quiz": [
-    {
       "question": "Wie groß ist der Spieler?",
       "answers": [
         { "answer": "2 Blöcke", "correct": true },
@@ -16,5 +14,4 @@
         { "answer": "3", "correct": false }
       ]
     }
-  ]
-}
+
