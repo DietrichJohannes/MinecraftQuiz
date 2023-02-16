@@ -1,20 +1,20 @@
 {
   "quiz": [
     {
-      "question": "Frage 1",
+      "question": "Wie groß ist der Spieler?",
       "answers": [
-        { "answer": "A1", "correct": false },
-        { "answer": "A2", "correct": false },
-        { "answer": "A3", "correct": true },
+        { "answer": "2 Blöcke", "correct": true },
+        { "answer": "1 Block", "correct": false },
+        { "answer": "3 Blöcke", "correct": false }
       ]
     },
     {
-        "question": "Frage 2",
-        "answer": [
-        { "answer": "B1", "correct": false},
-        { "answer": "B2", "correct": true}, 
-        { "answer": "B3", "correct": false},
-        ]
+      "question": "Wie viel TNT Blöcke sind in einer Pyramide?",
+      "answers": [
+        { "answer": "8", "correct": false },
+        { "answer": "9", "correct": true },
+        { "answer": "3", "correct": false }
+      ]
     }
-    ]
+  ]
 }
