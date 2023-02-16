@@ -51,9 +51,8 @@ function loadData(){
   .then(response => response.json())
   .then(data => {
     // do something with the data
-    console.log(data.name);
-    console.log(data.age);
-    console.log(data.city);
+    console.log("Frage" + data.quiz.question);
+    console.log(data.quiz.answers.answer + quiz.answers.correct);
   })
   .catch(error => {
     console.error('Error:', error);
