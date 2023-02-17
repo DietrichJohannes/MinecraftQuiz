@@ -1,6 +1,7 @@
 [
       {
             "question" : "Wie groß ist der Spieler",
+            "answer": 1,
             "opt": [
                   "2 Blöcke", "1 Block", "3 Blöcke"                
             ]
