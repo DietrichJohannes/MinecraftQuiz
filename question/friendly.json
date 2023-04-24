@@ -1,0 +1,142 @@
+[
+{
+"Frage": "Was baut man als aller erstes ab, wenn man eine neue Minecraftwelt erstellt",
+"Antwort1": "Holz",
+"Antwort2": "Stein",
+"Antwort3": "Eisen",
+"Richtig": 1
+},
+{
+"Frage": "Was macht man in seiner aller ersten Minecraft Nacht",
+"Antwort1": "Enderdrache Töten",
+"Antwort2": "Ängstlich einbauen",
+"Antwort3": "Jedes Monster Töten",
+"Richtig": 2
+},
+{
+"Frage": "Mit welchem Item füttert man ein Huhn",
+"Antwort1": "Kartoffeln",
+"Antwort2": "Weizen",
+"Antwort3": "Samen",
+"Richtig": 3
+},
+{
+"Frage": "Fleißt Wasser schneller als Lava",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "Ja, im Nether",
+"Richtig": 1
+},
+{
+"Frage": "Wie viele Bretter ergeben 13 Holzstämme",
+"Antwort1": "52",
+"Antwort2": "64",
+"Antwort3": "48",
+"Richtig": 1
+},
+{
+"Frage": "Wie groß ist ein Stack Schneebälle ",
+"Antwort1": "64",
+"Antwort2": "16",
+"Antwort3": "45",
+"Richtig": 2
+},
+{
+"Frage": "Welches Tier kann Leder dropen",
+"Antwort1": "Schweine",
+"Antwort2": "Schaf",
+"Antwort3": "Kuh",
+"Richtig": 3
+},
+{
+"Frage": "Können in der Schwierigkeit Friedlich feindliche Mobs spawnen",
+"Antwort1": "Ja",
+"Antwort2": "Nur Creeper",
+"Antwort3": "Nein",
+"Richtig": 2
+},
+{
+"Frage": "Mit welcher dieser Spitzhacken kann man einen Diamanten abbauen",
+"Antwort1": "Steinspitzhacke",
+"Antwort2": "Eisenspitzhacke",
+"Antwort3": "Goldspitzhacke",
+"Richtig": 2
+},
+{
+"Frage": "Was passiert wenn man mit einem Delphin schwimmt",
+"Antwort1": "Es passiert nichts",
+"Antwort2": "Man zähmt ihn",
+"Antwort3": "Man wird schneller",
+"Richtig": 3
+},
+{
+"Frage": "Was braucht man um auf einem Schwein zu sitzen",
+"Antwort1": "Karottenrute",
+"Antwort2": "Sattel",
+"Antwort3": "Schweinerüstung",
+"Richtig": 2
+},
+{
+"Frage": "Wie heißt der erste Skin den jeder hat",
+"Antwort1": "Steve",
+"Antwort2": "Gustav",
+"Antwort3": "Wolfgang",
+"Richtig": "1"
+},
+{
+"Frage": "Giebt es in Minecraft einen Mond",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "",
+"Richtig": "1"
+},
+{
+"Frage": "Geht die minimale Bauhöhe in der 1.18 in den negativen Bereich", 
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "",
+"Richtig": ""
+},
+{
+"Frage": "Kann man in Minecraft Java seinen eigenen Skin zeichnen und benutzen",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "",
+"Richtig": "1"
+},
+{
+"Frage": "Können rote Schafe spawnen",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "",
+"Richtig": "1"
+},
+{
+"Frage": "Wie vermehrt man zwei gleiche Tiere",
+"Antwort1": "Beide schlagen",
+"Antwort2": "Beide füttern",
+"Antwort3": "Beide in ein Boot setzen",
+"Richtig": "2"
+},
+{
+"Frage": "Was dropt ein Eisengolem noch außer Eisen",
+"Antwort1": "Mohnblume",
+"Antwort2": "Eimer",
+"Antwort3": "Sonnenblume",
+"Richtig": "1"
+},
+{
+"Frage": "Was passiert, wenn man im Nether Wasser platziert",
+"Antwort1": "Es löchst Lava",
+"Antwort2": "Es fließt ganz langsam",
+"Antwort3": "Es verdampft",
+"Richtig": "3"
+},
+{
+"Frage": "Was passiert, wenn man mit einer Schaufel Rechtsklick auf einen Grasblock macht",
+"Antwort1": "Wird zum Erdblock",
+"Antwort2": "Wird zum Weg",
+"Antwort3": "Nichts",
+"Richtig": "2"
+}
+]
