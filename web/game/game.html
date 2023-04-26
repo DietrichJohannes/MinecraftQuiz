@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spielen</title>
+    <link rel="stylesheet" href="../data/index.css">
+    <link rel="icon" type="image/x-icon" href="../img/icon.ico">
+</head>
+<body>
+
+    <button class="MinecraftDesign" style="left: 0px; top: 0px; position: absolute;" title="Zum Startmenü" id="home" onclick="window.location.href = '../menue/menue.html'"><img src="../img/back_arrow.png" /></button>
+
+    <div id="QuestionDiv">
+        <div class="HeadlineDiv">
+            <h1 id="question" class="MinecraftDesign Hover">Frage</h1>
+        </div>
+
+             <h1 id="points" title="Punkte" style="right: 0px; top: 0px; position: absolute; background-color: grey; font-size: 25px;">0</h1>
+
+
+
+        <div id="ChoiceDiv"> 
+
+            <h1 id="loadText" style="font-size: 50px; display: blcok;"></h1>
+
+            <div class="ChoiceDiv2"><button title="Antwort 1" class="MinecraftDesign Choice" id="Choice1" onclick="checkAnswers(1);"></button></div>
+            <div class="ChoiceDiv2"><button title="Antwort 2" class="MinecraftDesign Choice" id="Choice2" onclick="checkAnswers(2);"></button></div>
+            <div class="ChoiceDiv2"><button title="Antwort 3" class="MinecraftDesign Choice" id="Choice3" onclick="checkAnswers(3);"></button></div>
+            <br>
+            <br>
+            <button title="Nächste Frage" class="MinecraftDesign Choice" id="NextQuestion" style="height: 50px;" onclick="nextQuestion()">Nächste Frage</button>
+        
+        </div>
+
+
+        <div id="snackbar">
+            <p id="snackbarText"></p>
+        </div>
+
+        <p style="font-size: 15px; position:absolute; bottom: 0px; right: 0px;">v.0.1</p> 
+
+
+        <script type="text/javascript" src="gameHelper.js"></script>
+        <script type="text/javascript" src="game.js"></script>
+</body>
+</html>
