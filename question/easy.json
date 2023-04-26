@@ -1,0 +1,142 @@
+[
+{
+"Frage": "Wie färbt man Schafe",
+"Antwort1": "Mit Färberblock",
+"Antwort2": "Mit farbigem Wasser",
+"Antwort3": "Mit Farbstoff",
+"Richtig": 3
+},
+{
+"Frage": "Kann man im Nether schlafen",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "Nur Nachts",
+"Richtig": 2
+},
+{
+"Frage": "Wie bekommt man Blätterblöcke",
+"Antwort1": "Einfach abbauen",
+"Antwort2": "Mit der Schere",
+"Antwort3": "Mit einer Hacke",
+"Richtig": 2
+},
+{
+"Frage": "Wie viel Obsidian braucht man mindestens für ein Netherportal",
+"Antwort1": "10",
+"Antwort2": "14",
+"Antwort3": "12",
+"Richtig": 1
+},
+{
+"Frage": "Vor was hat ein Enderman angst",
+"Antwort1": "Villager",
+"Antwort2": "Wasser",
+"Antwort3": "Endermite",
+"Richtig": 2
+},
+{
+"Frage": "Was von dieser Auswahl kann man benutzen um einen Craftingtable zu machen",
+"Antwort1": "1 Eichenstamm",
+"Antwort2": "3 Holzbrätter",
+"Antwort3": "2 Stöcke, 2 Holzbretter",
+"Richtig": 1
+},
+{
+"Frage": "Was kann man aus einem Totem Busch bekommen wenn man ihn abbaut?",
+"Antwort1": "Holzbretter",
+"Antwort2": "Stöcke",
+"Antwort3": "Toter Busch",
+"Richtig": 2
+},
+{
+"Frage": "Mit welcher Taste lässt man sich seine Koordinaten anzeigen(Java)",
+"Antwort1": "K",
+"Antwort2": "F4",
+"Antwort3": "F3",
+"Richtig": 3
+},
+{
+"Frage": "Wie lässt man alle Effekte sofort verfallen",
+"Antwort1": "Honik Trinken",
+"Antwort2": "Ins Wasser springen",
+"Antwort3": "Milch Trinken",
+"Richtig": 3
+},
+{
+"Frage": "Wei heilt man einen Zombivillager",
+"Antwort1": "Trank der Heilung",
+"Antwort2": "Schwächetrank + Goldapfel",
+"Antwort3": "Goldapfel",
+"Richtig": 2
+},
+{
+"Frage": "Giebt es rote Kühe",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "",
+"Richtig": 1
+},
+{
+"Frage": "Wie viele Spinnenarten giebt es",
+"Antwort1": "1",
+"Antwort2": "2",
+"Antwort3": "3",
+"Richtig": 2
+},
+{
+"Frage": "In welcher Schwierigkeit kann man an Hunger sterben",
+"Antwort1": "Einfach",
+"Antwort2": "Normal",
+"Antwort3": "Schwer",
+"Richtig": 3
+},
+{
+"Frage": "Vor welchem Tier hat ein Creeper angst",
+"Antwort1": "Katzen",
+"Antwort2": "Hunde",
+"Antwort3": "Schafe",
+"Richtig": 1
+},
+{
+"Frage": "Was braucht man um einen Eisengolem zu bauen",
+"Antwort1": "4 Eisenblöcke + 1 geschnitzter Kürbis",
+"Antwort2": "2 Eisenblöcke + 1 geschnitzter Kürbis",
+"Antwort3": "4 Eisenblöcke + 1 Kürbis",
+"Richtig": 1
+},
+{
+"Frage": "Kann man einen Enderman mit einem Bogen abschießen",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": "",
+"Richtig": 2
+},
+{
+"Frage": "Welcher Mob droppt ein Totem",
+"Antwort1": "Vex",
+"Antwort2": "Whither",
+"Antwort3": "Evoker",
+"Richtig": 3
+},
+{
+"Frage": "Welcher Job braucht ein Villager, um Pfeile zu tradden",
+"Antwort1": "Fletcher",
+"Antwort2": "Cleric",
+"Antwort3": "Butcher",
+"Richtig": 1
+},
+{
+"Frage": "Wer ist der Losteste Minecraft Spieler",
+"Antwort1": "Monte",
+"Antwort2": "Trymacs",
+"Antwort3": "Angela Merkel",
+"Richtig": 2
+},
+{
+"Frage": "Was passiert mit einem Kessel, der im Regen steht",
+"Antwort1": "Er rostet",
+"Antwort2": "Er füllt sich",
+"Antwort3": "Nichts",
+"Richtig": 2
+}
+]
