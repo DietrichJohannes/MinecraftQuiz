@@ -65,7 +65,7 @@ function loadAnimation(){                                  // Die Funktion loadA
 function setOptions(){                                         // setQuestions zeigt die Fragen und Antwortmöglichkeit auf dem Bildschirm an
 
   
-if(round < datalength){                                        // Überprüfe ob bereits alle Frage gestellt wurden oder nicht
+if(round < 10){                                        // Überprüfe ob bereits alle Frage gestellt wurden oder nicht
 
 datablock = (data[round]);                                     // wenn nein hole eine neue Frage mit Antworten
 
@@ -114,7 +114,7 @@ function gameOver(){
   Answer2.style.display = "none";
   Answer3.style.display = "none";
   
-  LoadText.innerHTML = "Du hast <br>" + ModeText + "<br>mit <br>" + points + "<br>Punkten abgeschlossen!";
+  LoadText.innerHTML = "Du hast <br>" + ModeText + "<br>mit <br>" + points + "von 10 <br>Punkten abgeschlossen!";
   LoadText.style.fontSize = "20px";
   LoadText.style.display = "block";
 }

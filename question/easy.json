@@ -35,7 +35,7 @@
 "Richtig": 2
 },
 {
-"Frage": "Was von dieser Auswahl kann man benutzen um einen Craftingtable zu machen",
+"Frage": "Was von dieser Auswahl kann man benutzen um einen Craftingtable zu bauen",
 "Antwort1": "1 Eichenstamm",
 "Antwort2": "3 Holzbrätter",
 "Antwort3": "2 Stöcke, 2 Holzbretter",
@@ -49,7 +49,7 @@
 "Richtig": 2
 },
 {
-"Frage": "Mit welcher Taste lässt man sich seine Koordinaten anzeigen(Java)",
+"Frage": "Mit welcher Taste kann man sich seine Koordinaten anzeigen",
 "Antwort1": "K",
 "Antwort2": "F4",
 "Antwort3": "F3",
@@ -63,7 +63,7 @@
 "Richtig": 3
 },
 {
-"Frage": "Wei heilt man einen Zombivillager",
+"Frage": "Wie heilt man einen Zombivillager",
 "Antwort1": "Trank der Heilung",
 "Antwort2": "Schwächetrank + Goldapfel",
 "Antwort3": "Goldapfel",
@@ -119,7 +119,7 @@
 "Richtig": 3
 },
 {
-"Frage": "Welcher Job braucht ein Villager, um Pfeile zu tradden",
+"Frage": "Welcher Job braucht ein Villager, um Pfeile zu traden",
 "Antwort1": "Fletcher",
 "Antwort2": "Cleric",
 "Antwort3": "Butcher",
