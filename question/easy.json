@@ -16,12 +16,12 @@
 {
 "Frage": "Wie bekommt man Blätterblöcke",
 "Antwort1": "Einfach abbauen",
-"Antwort2": "Mit der Schere",
+"Antwort2": "Mit einer Schere",
 "Antwort3": "Mit einer Hacke",
 "Richtig": 2
 },
 {
-"Frage": "Wie viel Obsidian braucht man mindestens für ein Netherportal",
+"Frage": "Wie viel Blöcke Obsidian braucht man mindestens für ein Netherportal",
 "Antwort1": "10",
 "Antwort2": "14",
 "Antwort3": "12",
@@ -31,7 +31,7 @@
 "Frage": "Vor was hat ein Enderman angst",
 "Antwort1": "Villager",
 "Antwort2": "Wasser",
-"Antwort3": "Endermite",
+"Antwort3": "Katzen",
 "Richtig": 2
 },
 {
@@ -57,9 +57,9 @@
 },
 {
 "Frage": "Wie lässt man alle Effekte sofort verfallen",
-"Antwort1": "Honik Trinken",
+"Antwort1": "Honig trinken",
 "Antwort2": "Ins Wasser springen",
-"Antwort3": "Milch Trinken",
+"Antwort3": "Milch trinken",
 "Richtig": 3
 },
 {
@@ -126,11 +126,11 @@
 "Richtig": 1
 },
 {
-"Frage": "Wer ist der Losteste Minecraft Spieler",
-"Antwort1": "Monte",
-"Antwort2": "Trymacs",
-"Antwort3": "Angela Merkel",
-"Richtig": 2
+"Frage": "Wie stellt man eine große Kiste her",
+"Antwort1": "Große Kiste craften",
+"Antwort2": "Drei Kisten nebeneinander stellen",
+"Antwort3": "Zwei Kisten nebeneinander stellen",
+"Richtig": 3
 },
 {
 "Frage": "Was passiert mit einem Kessel, der im Regen steht",
@@ -138,5 +138,12 @@
 "Antwort2": "Er füllt sich",
 "Antwort3": "Nichts",
 "Richtig": 2
+},
+{
+"Frage": "Wie viele Dimensionen giebt es in Minecraft",
+"Antwort1": "1",
+"Antwort2": "2",
+"Antwort3": "3",
+"Richtig": 3
 }
 ]
