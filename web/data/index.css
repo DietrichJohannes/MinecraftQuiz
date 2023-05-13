@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'mojang';
-    src: url('font/mojang.woff') format('woof');
+    src: url('../font/mojang.woff') format('woof'),
+    url('../font/mojang.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
