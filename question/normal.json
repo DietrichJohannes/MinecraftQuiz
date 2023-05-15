@@ -18,7 +18,7 @@
 "Frage": "Wird Fallschaden von Honig abgedämpft",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
-"Antwort3": "$",
+"Antwort3": null,
 "Richtig": 1
 },
 {
@@ -116,7 +116,7 @@
 "Frage": "Kann man mithilfe von Lava ein Netherportal anzünden",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
-"Antwort3": "$",
+"Antwort3": null,
 "Richtig": 1
 },
 {
@@ -130,7 +130,7 @@
 "Frage": "Braucht man um auf einem Skeletpferd zu reiten einen Sattel",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
-"Antwort3": "$",
+"Antwort3": null,
 "Richtig": 1
 },
 {
