@@ -29,7 +29,8 @@ nextQ.style.visibility = "hidden";                                // Nächste Fr
 
 async function loadQuestions(){                                   // loadQuestions lädt die Daten aus der JSON-Datei
   const response = await fetch(jsonURL);                              // Lade daten aus der JSON-Datei
-  data = await response.json();                                   // daten in Variable data schreiben
+  data = await response.json();    
+  data = data.QDATA;                                                                 // daten in Variable data schreiben
   shuffledArray = data.sort((a, b) => 0.5 - Math.random());       // Fragen in data mischen
 
   datalength = data.length;                                       // Anzahl der Datensätze auslesen
