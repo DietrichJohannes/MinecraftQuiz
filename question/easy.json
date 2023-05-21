@@ -74,7 +74,7 @@
 "Frage": "Giebt es rote Kühe",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
-"Antwort3": "",
+"Antwort3": null,
 "Richtig": 1
 },
 {
@@ -109,7 +109,7 @@
 "Frage": "Kann man einen Enderman mit einem Bogen abschießen",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
-"Antwort3": "",
+"Antwort3": null,
 "Richtig": 2
 },
 {
