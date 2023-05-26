@@ -14,6 +14,19 @@ var answer3;                                                      // Antwortmög
 var rightAnswer = "0";                                            // Richtige Antwort
 var points = 0;                                                   // Punkte
 
+var XpArray = [];0
+XpArray.push('../img/Xp Bar/0.jpg');
+XpArray.push('../img/Xp Bar/2.jpg');
+XpArray.push('../img/Xp Bar/4.jpg');
+XpArray.push('../img/Xp Bar/6.jpg');
+XpArray.push('../img/Xp Bar/8.jpg');
+XpArray.push('../img/Xp Bar/10.jpg');
+XpArray.push('../img/Xp Bar/12.jpg');
+XpArray.push('../img/Xp Bar/14.jpg');
+XpArray.push('../img/Xp Bar/16.jpg');
+XpArray.push('../img/Xp Bar/18.jpg');
+XpArray.push('../img/Xp Bar/20.jpg');
+
 
 const Question = document.getElementById('question');               // Question Text  
 const Answer1 = document.getElementById('Choice1');                 // Antwort 1 Button
@@ -143,10 +156,23 @@ setOptions();
 function checkAnswers(button){                                 // (4) Wenn eine Antwort gedrückt wird 
   // Gedrückter Button übergiebt wert (1, 2, 3)
 if(rightAnswer == button){                                     // Überprüfe ob die richtige Antwort gedrückt wurde
-points++;                                                      // Wenn die Frage richtig beantwortet wurde wird der Punkt um 1 erhöt
-  nextQ.style.visibility = "visible";                          // Zeigt den Button "Nächste Frage"
-  updateBorder();
+points++;                     
+    if(button == 1){
+      Answer1.style.border = '2px solid rgb(13, 241, 13)';
+    }else{
+      if(button == 2){
+        Answer2.style.border = '2px solid rgb(13, 241, 13)';
+      }else{
+        if(button == 3){
+          Answer3.style.border = '2px solid rgb(13, 241, 13)';
+        }
+      }
+    }     
+    
+    
+  nextQ.style.visibility = "visible";                          // Zeigt den Button "Nächste Frage";
   updatePoints();                                              // (5) Zeigt neue Punkte Zahl
+  updateXpBar();
     }else{
       nextQ.style.visibility = "visible";                      // Zeigt den Button "Nächste Frage"
       updateBorder();
@@ -174,6 +200,10 @@ function updateBorder(){
       }
     }
   }
+}
+
+function updateXpBar(){
+  document.getElementById('xpBar').src=XpArray[points];
 }
 
 function updatePoints(){                                        // Zeigt die neue Puktzahl
