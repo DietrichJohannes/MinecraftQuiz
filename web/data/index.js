@@ -11,6 +11,11 @@ if(urlParms.get('name') != null){				// Überprüft ob ein URL Paramter vorhande
 
 */
 
+var InfoUrl = "https://script.google.com/macros/s/AKfycbxa9mUQZ6F9WdGoMpWD__noSt4trLKd0PCkg_-BmObBTQPj59QRGyFtBF8jypq3wXDCDQ/exec";
+var SplashText = "";
+
+loadSplashText();
+
 function Snackbar(text){
     // Get the snackbar DIV
     var x = document.getElementById("snackbar");
@@ -22,3 +27,13 @@ function Snackbar(text){
     // After 3 seconds, remove the show class from DIV
     setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
   }
+
+  async function loadSplashText(){
+  fetch(InfoUrl)
+  .then(res => res.json())
+  .then(data =>{
+      SplashText = data[0].SplashText;
+      document.getElementById('splashText').innerHTML = SplashText;
+  })
+  }
+  

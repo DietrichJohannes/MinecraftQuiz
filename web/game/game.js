@@ -84,7 +84,7 @@ if(rightAnswer == ""){
   setOptions();
 }
 
-if(answer3 == ""){
+if(answer3 == null){
   Answer3.style.visibility = "hidden";
 }else{
   Answer3.style.visibility = "visible";
