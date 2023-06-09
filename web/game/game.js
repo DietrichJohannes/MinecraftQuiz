@@ -5,7 +5,7 @@ var datablock;                                                    // Ein Datenbl
 
 var round = 0;                                                    // Anzahl der Runden
 
-var jsonURL = 'https://jojogif2001.github.io/MinecraftQuiz/question/friendly.json';                                                 // URL zur Fragen JSON-Datei
+var jsonURL = '';                                                 // URL zur Fragen JSON-Datei
 
 var question;                                                     // Frage
 var answer1;                                                      // Antwortmöglichkeit 1

@@ -54,7 +54,7 @@ function getMode(){   // Überprüfe welcher Modi gewähtl wurde
     case "6":
       Snackbar("Crafting");
       ModeText = "Crafting";
-      jsonURL = '';
+      window.open("crafting/crafting.html","_self")
       break;
   }
 }else{
