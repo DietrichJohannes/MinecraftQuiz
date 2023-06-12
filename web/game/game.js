@@ -14,7 +14,7 @@ var answer3;                                                      // Antwortmög
 var rightAnswer = "0";                                            // Richtige Antwort
 var points = 0;                                                   // Punkte
 
-var XpArray = [];0
+var XpArray = [];
 XpArray.push('../img/Xp Bar/0.jpg');
 XpArray.push('../img/Xp Bar/2.jpg');
 XpArray.push('../img/Xp Bar/4.jpg');
@@ -153,7 +153,11 @@ Answer3.disabled = false;
 setOptions();
 }
 
-function checkAnswers(button){                                 // (4) Wenn eine Antwort gedrückt wird 
+function checkAnswers(button){      
+    Answer1.disabled = true;
+    Answer2.disabled = true;
+    Answer3.disabled = true;      
+                            // (4) Wenn eine Antwort gedrückt wird 
   // Gedrückter Button übergiebt wert (1, 2, 3)
 if(rightAnswer == button){                                     // Überprüfe ob die richtige Antwort gedrückt wurde
 points++;                     
@@ -178,9 +182,7 @@ points++;
       updateBorder();
     }
 
-    Answer1.disabled = true;
-    Answer2.disabled = true;
-    Answer3.disabled = true;
+
 
 } 
 

@@ -5,11 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crafting</title>
+    <link rel="icon" type="image/x-icon" href="../../img/icon.ico">
     <link rel="stylesheet" href="../../data/index.css">
 </head>
 <body>
 
+    <button class="MinecraftDesign" style="left: 0px; top: 0px; position: absolute; width: 65px;" title="Zurück" onclick="window.location.href = '../../menue/menue.html'"><img src="../../img/arrow_back.png" /></button>
+
 <div id="Crafting" class="Crafting">
+
+
 
     <div id="InfoCraftingResult">
         <h1></h1>
@@ -18,35 +23,46 @@
     </div>
 
     <div class="CraftingHeadlinediv">
-        <h1 class="Crafting MinecraftDesign noHover">Vervollständige das Rezept</h1>
+        <h1 class="Crafting MinecraftDesign noHover" id="Headline">Vervollständige das Rezept</h1>
     </div>
     <div class="RundenAnzahlCrafting Flex_Center">
-        <p id="RundenAnzahlCrafting" class="MinecraftDesign noHover">0.</p>
+        <p id="RundenAnzahlCrafting" class="MinecraftDesign noHover">1.</p>
     </div>
 
     <div class="Crafting_Headline">
+
+    <center>
+    <h1 id="loadText" style="font-size: 50px; display: block;"></h1>
+    </center>
+
         <div id="CraftingHeadline" class="Craftingheadline MinecraftDesign noHover">
             <img id="imageDefault" src="../../img/Crafting_img/Default.jpg" alt="">
             <img id="Crafting_Result" src="" alt="">    <!--55px 55px Img-->
         </div>
     </div>
 
-    <div class="ChoiceCraftingdiv">
+    <div class="ChoiceCraftingdiv" id="AnswerButtons">
             <div class="Crafting_Choice" id="Crafting_Choice1">
-                <img id="Choice1" class="Choice_Crafting" onclick="Crafting_Choice(this);">
+                <input type="image" id="Choice1" class="Choice_Crafting" onclick="checkAnswers(1);" style="width: 100px; height: 100px;">
             </div>
             <div class="Crafting_Choice" id="Crafting_Choice2">
-                <img id="Choice2" class="Choice_Crafting" onclick="Crafting_Choice(this);">
+                <input type="image" id="Choice2" class="Choice_Crafting" onclick="checkAnswers(2);" style="width: 100px; height: 100px;">
             </div>
             <div class="Crafting_Choice" id="Crafting_Choice3">
-                <img id="Choice3" class="Choice_Crafting" onclick="Crafting_Choice(this);">
+                <input type="image" id="Choice3" class="Choice_Crafting" onclick="checkAnswers(3);" style="width: 100px; height: 100px;">
             </div>
     </div>
     <br>
     <br>
+    <center>
+        <p id="points" title="Punkte" style="color: #A3E16E; font-size: 25px;">0</p>
+            <img src="../../img/Xp Bar/0.png" id="xpBar">
+            <br>
+            <br>
     <div class="NächsteFrageDiv" id="NextQuestion">
-        <button id="NextQuestion" class="MinecraftDesign" style="padding: 5px 10px; height: 50px;" onclick="NextRoundCrafting();">Nächstes Rezept</button>
-    </div>
+        <button id="NextQuestion" class="MinecraftDesign" style="padding: 5px 10px; height: 50px;" onclick="nextQuestion();">Nächstes Rezept</button>
+    </center>
+</div>
 
 </div>
 
@@ -57,7 +73,6 @@
         <button class="PlayAgain MinecraftDesign" onclick="PlayAgain();">Nochmal Spielen</button>
     </div>
 </div>
-<script src="../../data/index.js"></script>
 <script src="crafting.js"></script>
 </body> 
 </html>
