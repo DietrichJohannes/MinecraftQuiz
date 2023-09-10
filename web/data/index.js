@@ -13,6 +13,7 @@ if(urlParms.get('name') != null){				// Überprüft ob ein URL Paramter vorhande
 
 var InfoUrl = "https://script.google.com/macros/s/AKfycbxa9mUQZ6F9WdGoMpWD__noSt4trLKd0PCkg_-BmObBTQPj59QRGyFtBF8jypq3wXDCDQ/exec";
 var SplashText = "";
+var WebVersion = "";
 
 loadSplashText();
 
@@ -33,7 +34,9 @@ function Snackbar(text){
   .then(res => res.json())
   .then(data =>{
       SplashText = data[0].SplashText;
+      WebVersion = data[0].WebVersion;
       document.getElementById('splashText').innerHTML = SplashText;
+      document.getElementById('Version').innerHTML = WebVersion;
   })
   }
   
