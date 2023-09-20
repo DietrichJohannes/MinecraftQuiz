@@ -35,7 +35,9 @@ function Snackbar(text){
   .then(data =>{
       SplashText = data[0].SplashText;
       WebVersion = data[0].WebVersion;
+      if(document.getElementById('splashText') != null){
       document.getElementById('splashText').innerHTML = SplashText;
+      }
       document.getElementById('Version').innerHTML = WebVersion;
   })
   }
