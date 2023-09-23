@@ -11,7 +11,7 @@ if(urlParms.get('name') != null){				// Überprüft ob ein URL Paramter vorhande
 
 */
 
-var InfoUrl = "https://script.google.com/macros/s/AKfycbxa9mUQZ6F9WdGoMpWD__noSt4trLKd0PCkg_-BmObBTQPj59QRGyFtBF8jypq3wXDCDQ/exec";
+var InfoUrl = "https://script.google.com/macros/s/AKfycbztoBSaf2CD7wjyzSuzxmNlWaUT2lZzXPdWrRnAlpCEXgejl-DX-dt0chbVEZws3sZYkg/exec";
 var SplashText = "";
 var WebVersion = "";
 
