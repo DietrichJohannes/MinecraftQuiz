@@ -29,7 +29,7 @@
 "Richtig": 1
 },
 {
-"Frage": "Vor was hat ein Enderman angst",
+"Frage": "Vor was hat ein Enderman Angst",
 "Antwort1": "Villager",
 "Antwort2": "Wasser",
 "Antwort3": "Katzen",
@@ -50,7 +50,7 @@
 "Richtig": 2
 },
 {
-"Frage": "Mit welcher Taste kann man sich seine Koordinaten anzeigen",
+"Frage": "Mit welcher Taste kann man sich seine Koordinaten anzeigen (Java)",
 "Antwort1": "K",
 "Antwort2": "F4",
 "Antwort3": "F3",
@@ -146,6 +146,13 @@
 "Antwort2": "2",
 "Antwort3": "3",
 "Richtig": 3
+},
+{
+"Frage": "Welcher Mob brennt im Sonnenlicht",
+"Antwort1": "Creeper",
+"Antwort2": "Zombi",
+"Antwort3": "Enderman",
+"Richtig": 2
 }
 ]
 }

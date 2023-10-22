@@ -43,7 +43,7 @@
 "Richtig": 2
 },
 {
-"Frage": "Welches Tier kann Leder dropen",
+"Frage": "Welches Tier dropt Leder",
 "Antwort1": "Schweine",
 "Antwort2": "Schaf",
 "Antwort3": "Kuh",
@@ -139,6 +139,13 @@
 "Antwort2": "Wird zum Weg",
 "Antwort3": "Nichts",
 "Richtig": 2
+},
+{
+"Frage": "Wie viele Leben hat der Spieler",
+"Antwort1": "20",
+"Antwort2": "10",
+"Antwort3": "15",
+"Richtig": 1
 }
 ]
 }

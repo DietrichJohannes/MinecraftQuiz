@@ -85,7 +85,7 @@
 "Richtig": 1
 },
 {
-"Frage": "Wo her bekommt man Schwämme",
+"Frage": "Woher bekommt man Schwämme",
 "Antwort1": "Ozeanmonumenten",
 "Antwort2": "Korallen",
 "Antwort3": "Fischen",
@@ -139,6 +139,13 @@
 "Antwort2": "9",
 "Antwort3": "8",
 "Richtig": 3
+},
+{
+"Frage": "Welches Lebensmittel in Minecraft stellt die meisten Hungerpunkte wieder her",
+"Antwort1": "Steak",
+"Antwort2": "Karotten",
+"Antwort3": "Rote Beete",
+"Richtig": 1
 }
 ]
 }
