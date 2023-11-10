@@ -5,147 +5,168 @@
 "Antwort1": "BastiGHG",
 "Antwort2": "Stegi",
 "Antwort3": "Trymacs",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.00"
 },
 {
 "Frage": "Wie kann man eine Endermid spawnen",
 "Antwort1": "Enderperlen werfen",
 "Antwort2": "Spawnei finden",
 "Antwort3": "Choruspflanzen abbauen",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.01"
 },
 {
 "Frage": "Wird Fallschaden von Honig abgedämpft",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
 "Antwort3": null,
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.02"
 },
 {
 "Frage": "Wie viele Bienen können gleichzeitig in ein Nest",
 "Antwort1": "3",
 "Antwort2": "5",
 "Antwort3": "2",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.03"
 },
 {
 "Frage": "Was braucht man um den Wither zu spawnen",
 "Antwort1": "Witherkopf + 4 Seelensand",
 "Antwort2": "3 Witherköpfe + 3 Seelensand",
 "Antwort3": "3 Witherköpfe + 4 Seelenerde",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 3.04"
 },
 {
 "Frage": "Wie viele unterschiedliche Netherbiome giebt es",
 "Antwort1": "3",
 "Antwort2": "5",
 "Antwort3": "7",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 3.05"
 },
 {
 "Frage": "Mit welcher Hilfe, bekommt man einen Zombiekopf",
 "Antwort1": "Creeper",
 "Antwort2": "Feuerzeug",
 "Antwort3": "Charged Creeper",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 3.06"
 },
 {
 "Frage": "Auf welcher höhe ist es am besten Diamanten zu farmen",
 "Antwort1": "-60",
 "Antwort2": "11",
 "Antwort3": "-50",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.07"
 },
 {
 "Frage": "Was droppt ein Schwein wenn es vom Wither getötet wird",
 "Antwort1": "Nichts",
 "Antwort2": "Witherrose + Schweinefleisch",
 "Antwort3": "Schweinefleisch",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 3.08"
 },
 {
 "Frage": "Was braucht man um auf die Netherdecke zu kommen",
 "Antwort1": "Spitzhacke",
 "Antwort2": "Enderperle",
 "Antwort3": "Leiter + Enderperle",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 3.09"
 },
 {
 "Frage": "Wie kann man Wasser im Nether setzen",
 "Antwort1": "Gar nicht",
 "Antwort2": "Im Kessel",
 "Antwort3": "Mit Netherite Eimer",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 3.10"
 },
 {
 "Frage": "Wo spawnen schwarze Katzen",
 "Antwort1": "Sumpfhütten",
 "Antwort2": "Sumpfhütten und Dörfer",
 "Antwort3": "Es giebt keine schwarze Katzen",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.11"
 },
 {
 "Frage": "Woher bekommt man Schwämme",
 "Antwort1": "Ozeanmonumenten",
 "Antwort2": "Korallen",
 "Antwort3": "Fischen",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.12"
 },
 {
 "Frage": "Was hiervon braucht man umbedingt für eine Eisenfarm",
 "Antwort1": "1 Villager",
 "Antwort2": "1 Dorf",
 "Antwort3": "1 Eisengolem",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 3.13"
 },
 {
 "Frage": "Wie viele TNT-Blöcke sind in einer Pyramide",
 "Antwort1": "3",
 "Antwort2": "6",
 "Antwort3": "9",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 3.14"
 },
 {
 "Frage": "Wie viele Arten von Holzbrättern giebt es",
 "Antwort1": "9",
 "Antwort2": "7",
 "Antwort3": "5",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.15"
 },
 {
 "Frage": "Kann man mithilfe von Lava ein Netherportal anzünden",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
 "Antwort3": null,
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.16"
 },
 {
 "Frage": "Was ist die aktuelle Maximale und Minimale Bauhöhe",
 "Antwort1": "0 - 256",
 "Antwort2": "-64 - 320",
 "Antwort3": "0 - 356",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 3.17"
 },
 {
 "Frage": "Braucht man um auf einem Skeletpferd zu reiten einen Sattel",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
 "Antwort3": null,
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.18"
 },
 {
 "Frage": "Aus wievielen Bruchsteinblöcken besteht ein Ofen",
 "Antwort1": "6",
 "Antwort2": "9",
 "Antwort3": "8",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 3.19"
 },
 {
 "Frage": "Welches Lebensmittel in Minecraft stellt die meisten Hungerpunkte wieder her",
 "Antwort1": "Steak",
 "Antwort2": "Karotten",
 "Antwort3": "Rote Beete",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 3.20"
 }
 ]
 }

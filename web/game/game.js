@@ -12,6 +12,7 @@ var answer1;                                                      // Antwortmög
 var answer2;                                                      // Antwortmöglichkeit 2
 var answer3;                                                      // Antwortmöglichkeit 3
 var rightAnswer = "0";                                            // Richtige Antwort
+var question_ID;                                                  // ID der Frage
 var points = 0;                                                   // Punkte
 
 var XpArray = [];
@@ -33,6 +34,7 @@ const Answer1 = document.getElementById('Choice1');                 // Antwort 1
 const Answer2 = document.getElementById('Choice2');                 // Antwort 2 Button
 const Answer3 = document.getElementById('Choice3');                 // Antwort 3 Button
 const nextQ = document.getElementById('NextQuestion');              // Nächste Frage Button
+const Question_ID = document.getElementById('Q_ID');                // Fragen ID
 const Points = document.getElementById('points');                   // Punkte H1
 
 var LoadText = document.getElementById('loadText');               // Spiel wird geladen Text
@@ -89,6 +91,7 @@ answer1 = datablock.Antwort1;                                  // Antwort 1 extr
 answer2 = datablock.Antwort2;                                  // Antwort 2 extrahieren
 answer3 = datablock.Antwort3;                                  // Antwort 3 extrahieren
 rightAnswer = datablock.Richtig;                               // Richtige Antwort extrahieren
+question_ID = datablock.id;                                    // Fragen ID extrahieren
 
 if(rightAnswer == ""){
   console.log("Question Error!");
@@ -115,6 +118,8 @@ Answer2.title = answer2;
 
 Answer3.innerHTML = answer3;                                   // Antwort 3 anzeigen
 Answer3.title = answer3;
+
+Question_ID.innerHTML = question_ID;
 
 round++;                                                       // Runde wird erhöt
   }else{

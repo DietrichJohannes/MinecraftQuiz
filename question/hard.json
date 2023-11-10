@@ -5,140 +5,160 @@
 "Antwort1": "2009",
 "Antwort2": "2006",
 "Antwort3": "2010",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 4.00"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Wolf gezähmt wird, wenn man ihm einen Knochen gibt",
 "Antwort1": "2/5",
 "Antwort2": "1/5",
 "Antwort3": "1/3",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.01"
 },
 {
 "Frage": "Aus welchem Land kommt Minecraft",
 "Antwort1": "USA",
 "Antwort2": "Deutschland",
 "Antwort3": "Schweden",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.02"
 },
 {
 "Frage": "Kann man mit einer Goldspitzhacke Gold abbauen",
 "Antwort1": "Ja",
 "Antwort2": "Nein",
 "Antwort3": null,
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 4.03"
 },
 {
 "Frage": "Was ist das Maximale Lichtlevel",
 "Antwort1": "7",
 "Antwort2": "10",
 "Antwort3": "15",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.04"
 },
 {
 "Frage": "Wie viele Arbeitsblöcke gibt es",
 "Antwort1": "10",
 "Antwort2": "13",
 "Antwort3": "15",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 4.05"
 },
 {
 "Frage": "Was braucht man für eine einfache Redstone-Clock",
 "Antwort1": "Komperator, Redstone, Redstonefackel",
 "Antwort2": "Komperator, Redstone",
 "Antwort3": "Redstone, Repeater, Redstonefackel",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 4.06"
 },
 {
 "Frage": "Mit welcher Tastenkombination wechselt man bei der java Edition schnell in den Kreativ Modus",
 "Antwort1": "Alt + F4",
 "Antwort2": "F5 + F6",
 "Antwort3": "F3 + F4",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.07"
 },
 {
 "Frage": "Wie viele verschiedene Bastionen gibt es",
 "Antwort1": "2",
 "Antwort2": "3",
 "Antwort3": "4",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.08"
 },
 {
 "Frage": "Von wie vielen Blöcken muss man springen, damit man nur noch ein halbes Herz hat",
 "Antwort1": "15",
 "Antwort2": "22",
 "Antwort3": "20",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 4.09"
 },
 {
 "Frage": "Wie viele verschiedene nätürlich vorkommende Tropenfische gibt es",
 "Antwort1": "2700",
 "Antwort2": "2000",
 "Antwort3": "1500",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 4.10"
 },
 {
 "Frage": "Auf welcher Höhe generiert die meiste Kohle",
 "Antwort1": "85 - 90",
 "Antwort2": "50 - 60",
 "Antwort3": "96 - 96",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.11"
 },
 {
 "Frage": "Was ist die Brenndauer eines Lavaeimers",
 "Antwort1": "3000s",
 "Antwort2": "1000s",
 "Antwort3": "10min",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 4.12"
 },
 {
 "Frage": "Wie viele Erzblöcke braucht man für ein Full Beacon",
 "Antwort1": "64",
 "Antwort2": "164",
 "Antwort3": "192",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 4.13"
 },
 {
 "Frage": "Mit welcher Tastenkombination lässt man sihc die Chunks anzeigen",
 "Antwort1": "F3 + G",
 "Antwort2": "F3 + C",
 "Antwort3": "F3 + s",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 4.14"
 },
 {
 "Frage": "Wie muss man ein Schaf benennen, damit es zum Regenbogenschaf wird",
 "Antwort1": "jakob_",
 "Antwort2": "jep_",
 "Antwort3": "_rainbow_",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 4.15"
 },
 {
 "Frage": "Wer hat Minecraft entwickelt",
 "Antwort1": "Linus Torvalds",
 "Antwort2": "Jens Bergernsten",
 "Antwort3": "Markus Alesej Persson",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.16"
 },
 {
 "Frage": "Wie viele Tiere können maximal in ein 1 Block breites Loch, ohne das welche ersticken",
 "Antwort1": "25",
 "Antwort2": "24",
 "Antwort3": "19",
-"Richtig": 2
+"Richtig": 2,
+"id": "ID: 4.17"
 },
 {
 "Frage": "An welchem Datum wurde Minecraft released",
 "Antwort1": "18. November 2011",
 "Antwort2": "15. Oktober 2014",
 "Antwort3": "29. April 2009",
-"Richtig": 1
+"Richtig": 1,
+"id": "ID: 4.18"
 },
 {
 "Frage": "Mit welchem Werkzeug baut man Kies am effektivsten ab",
 "Antwort1": "Spitzhacke",
 "Antwort2": "Eimer",
 "Antwort3": "Schaufel",
-"Richtig": 3
+"Richtig": 3,
+"id": "ID: 4.19"
 }
 ]
 }
