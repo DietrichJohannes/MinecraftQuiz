@@ -34,7 +34,7 @@ const Answer1 = document.getElementById('Choice1');                 // Antwort 1
 const Answer2 = document.getElementById('Choice2');                 // Antwort 2 Button
 const Answer3 = document.getElementById('Choice3');                 // Antwort 3 Button
 const nextQ = document.getElementById('NextQuestion');              // Nächste Frage Button
-const Question_ID = document.getElementById('Q_ID');                // Fragen ID
+const Question_ID = document.getElementById('q_ID');                // Fragen ID
 const Points = document.getElementById('points');                   // Punkte H1
 
 var LoadText = document.getElementById('loadText');               // Spiel wird geladen Text
