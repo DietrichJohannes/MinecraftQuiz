@@ -13,6 +13,7 @@ body {
     user-select: none;
 	font-family:mojang;
     background-image: url(../img/Background.png);
+    cursor: url('../img/corsor.png'), pointer;
 }
 
 
@@ -64,6 +65,7 @@ button.padding{
 
 .MinecraftDesign:hover{
     background-color: rgb(145, 157, 226);
+    cursor: url('/img/corsor.png'), auto;
 }
 
 .noHover:hover{

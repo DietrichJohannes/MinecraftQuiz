@@ -49,12 +49,12 @@ function getMode(){   // Überprüfe welcher Modi gewähtl wurde
     case "5":
       Snackbar("Überleben");
       ModeText = "Überleben";
-      jsonURL = '';
+      window.open("überleben/überleben.html", "_self");
       break;
     case "6":
       Snackbar("Crafting");
       ModeText = "Crafting";
-      window.open("crafting/crafting.html","_self")
+      window.open("crafting/crafting.html","_self");
       break;
   }
 }else{
