@@ -167,6 +167,14 @@
 "Antwort3": "15",
 "Richtig": 1,
 "id": "ID: 1.20"
+},
+{
+"Frage": "Wie groß ist der Spieler",
+"Antwort1": "1 Block",
+"Antwort2": "3 Blöcke",
+"Antwort3": "2 Blöcke",
+"Richtig": 3,
+"id": "ID: 1.21"
 }
 ]
 }

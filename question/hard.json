@@ -159,6 +159,14 @@
 "Antwort3": "Schaufel",
 "Richtig": 3,
 "id": "ID: 4.19"
-}
+},
+{
+"Frage": "In welcher Version kamen erstmals Skelette in Minecraft vor",
+"Antwort1": "Alpha",
+"Antwort2": "Beta",
+"Antwort3": "Release",
+"Richtig": 1,
+"id": "ID: 4.20"
+    }
 ]
 }

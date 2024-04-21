@@ -175,6 +175,22 @@
 "Antwort3": "Enderman",
 "Richtig": 2,
 "id": "ID: 2.21"
+},
+{
+"Frage": "Wie lange dauert ein Tag in Minecraft",
+"Antwort1": "20 Minuten",
+"Antwort2": "10 Minuten",
+"Antwort3": "15 Minuten",
+"Richtig": 1,
+"id": "ID: 2.22"
+},
+{
+"Frage": "Welches Tier bringt dir ein Geschenk, wenn du schläfst",
+"Antwort1": "Katzen",
+"Antwort2": "Lamas",
+"Antwort3": "Schweine",
+"Richtig": 1,
+"id": "ID: 2.23"
 }
 ]
 }

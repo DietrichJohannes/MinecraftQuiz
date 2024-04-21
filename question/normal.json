@@ -167,6 +167,22 @@
 "Antwort3": "Rote Beete",
 "Richtig": 1,
 "id": "ID: 3.20"
+},
+{
+"Frage": "Nach wievielen schlaflosen Tagen spawnen Phantome",
+"Antwort1": "1",
+"Antwort2": "5",
+"Antwort3": "3",
+"Richtig": 3,
+"id": "ID: 3.21"
+},
+{
+"Frage": "Welches reale Tier lieh dem Ghast seine Stimme",
+"Antwort1": "Katze",
+"Antwort2": "Hund",
+"Antwort3": "Hyäne",
+"Richtig": 1,
+"id": "ID: 3.22"   
 }
 ]
 }
