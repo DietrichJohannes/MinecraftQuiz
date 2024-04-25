@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de">        
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,20 +18,24 @@
         </div>
 
         <div id="ChoiceDiv"> 
-
+            <center>
             <h1 id="loadText" style="font-size: 50px; display: block;"></h1>
-
+            <div class="button-container">
             <div class="ChoiceDiv2"><button title="Antwort 1" class="MinecraftDesign Choice" id="Choice1" onclick="checkAnswers(1);"></button></div>
             <div class="ChoiceDiv2"><button title="Antwort 2" class="MinecraftDesign Choice" id="Choice2" onclick="checkAnswers(2);"></button></div>
             <div class="ChoiceDiv2"><button title="Antwort 3" class="MinecraftDesign Choice" id="Choice3" onclick="checkAnswers(3);"></button></div>
+            </div>
             <br>
             <p id="points" title="Punkte" style="color: #A3E16E; font-size: 25px;">0</p>
-            <img src="../img/Xp Bar/0.png" id="xpBar">
+            <img src="../img/XpBar/0.jpg" id="xpBar">
             <br>
             <br>
             <br>
             <br>
+            
             <button title="Nächste Frage" class="MinecraftDesign Choice" id="NextQuestion" style="height: 50px;" onclick="nextQuestion()">Nächste Frage</button>
+            <button title="Nochmal Spielen" class="MinecraftDesign Choice" id="PlayAgain" style="height: 50px;" onclick="playAgain()">Nochmal Spielen</button>
+            </center>
         
         </div>
 
@@ -46,5 +50,6 @@
 
         <script type="text/javascript" src="gameHelper.js"></script>
         <script type="text/javascript" src="game.js"></script>
+        <script type="text/javascript" src="../data/index.js"></script>
 </body>
 </html>

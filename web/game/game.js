@@ -11,21 +11,22 @@ var question;                                                     // Frage
 var answer1;                                                      // Antwortmöglichkeit 1
 var answer2;                                                      // Antwortmöglichkeit 2
 var answer3;                                                      // Antwortmöglichkeit 3
+var QID;                                                          // Die Fragen ID
 var rightAnswer = "0";                                            // Richtige Antwort
 var points = 0;                                                   // Punkte
 
 var XpArray = [];
-XpArray.push('../img/Xp Bar/0.jpg');
-XpArray.push('../img/Xp Bar/2.jpg');
-XpArray.push('../img/Xp Bar/4.jpg');
-XpArray.push('../img/Xp Bar/6.jpg');
-XpArray.push('../img/Xp Bar/8.jpg');
-XpArray.push('../img/Xp Bar/10.jpg');
-XpArray.push('../img/Xp Bar/12.jpg');
-XpArray.push('../img/Xp Bar/14.jpg');
-XpArray.push('../img/Xp Bar/16.jpg');
-XpArray.push('../img/Xp Bar/18.jpg');
-XpArray.push('../img/Xp Bar/20.jpg');
+XpArray.push('../img/XpBar/0.jpg');
+XpArray.push('../img/XpBar/2.jpg');
+XpArray.push('../img/XpBar/4.jpg');
+XpArray.push('../img/XpBar/6.jpg');
+XpArray.push('../img/XpBar/8.jpg');
+XpArray.push('../img/XpBar/10.jpg');
+XpArray.push('../img/XpBar/12.jpg');
+XpArray.push('../img/XpBar/14.jpg');
+XpArray.push('../img/XpBar/16.jpg');
+XpArray.push('../img/XpBar/18.jpg');
+XpArray.push('../img/XpBar/20.jpg');
 
 
 const Question = document.getElementById('question');               // Question Text  
@@ -33,11 +34,14 @@ const Answer1 = document.getElementById('Choice1');                 // Antwort 1
 const Answer2 = document.getElementById('Choice2');                 // Antwort 2 Button
 const Answer3 = document.getElementById('Choice3');                 // Antwort 3 Button
 const nextQ = document.getElementById('NextQuestion');              // Nächste Frage Button
+const play_again = document.getElementById('PlayAgain');
 const Points = document.getElementById('points');                   // Punkte H1
+const QuestionID = document.getElementById('q_ID');                 // Fragen ID
 
 var LoadText = document.getElementById('loadText');               // Spiel wird geladen Text
 
 nextQ.style.visibility = "hidden";                                // Nächste Frage Button ausblenden
+play_again.style.display = "none";
 
 
 async function loadQuestions(){                                   // loadQuestions lädt die Daten aus der JSON-Datei
@@ -76,8 +80,15 @@ function loadAnimation(){                                  // Die Funktion loadA
   loadQuestions();                                             // (2) loadQuestion aufrufen                   
 }
 
-function setOptions(){                                         // setQuestions zeigt die Fragen und Antwortmöglichkeit auf dem Bildschirm an
+function shuffleButtons() {
+  var container = document.querySelector('.button-container');
+  for (var i = container.children.length; i >= 0; i--) {
+      container.appendChild(container.children[Math.random() * i | 0]);
+  }
+}
 
+function setOptions(){                                         // setQuestions zeigt die Fragen und Antwortmöglichkeit auf dem Bildschirm an
+shuffleButtons();
   
 if(round < 10){                                        // Überprüfe ob bereits alle Frage gestellt wurden oder nicht
 
@@ -89,6 +100,7 @@ answer1 = datablock.Antwort1;                                  // Antwort 1 extr
 answer2 = datablock.Antwort2;                                  // Antwort 2 extrahieren
 answer3 = datablock.Antwort3;                                  // Antwort 3 extrahieren
 rightAnswer = datablock.Richtig;                               // Richtige Antwort extrahieren
+QID = datablock.id;                                            // Fragen ID extrahieren
 
 if(rightAnswer == ""){
   console.log("Question Error!");
@@ -98,9 +110,9 @@ if(rightAnswer == ""){
 }
 
 if(answer3 == null){
-  Answer3.style.visibility = "hidden";
+  Answer3.style.display = "none ";
 }else{
-  Answer3.style.visibility = "visible";
+  Answer3.style.display = "block";
 }
 
 
@@ -116,6 +128,8 @@ Answer2.title = answer2;
 Answer3.innerHTML = answer3;                                   // Antwort 3 anzeigen
 Answer3.title = answer3;
 
+QuestionID.innerHTML = QID;                                    // Fragen ID anzeigen
+
 round++;                                                       // Runde wird erhöt
   }else{
     gameOver();                                                // Wenn ja dann Game Over!
@@ -127,15 +141,19 @@ function gameOver(){
   Answer1.style.display = "none"
   Answer2.style.display = "none";
   Answer3.style.display = "none";
+  play_again.style.display = "block";
   
   LoadText.innerHTML = "Du hast <br>" + ModeText + "<br>mit <br>" + points + "von 10 <br>Punkten abgeschlossen!";
   LoadText.style.fontSize = "20px";
   LoadText.style.display = "block";
+  
+
 }
 
 function nextQuestion(){
 
 nextQ.style.visibility = "hidden";
+
 
 Answer1.style.border = "2px solid rgb(173, 170, 170)";
 Answer2.style.border = "2px solid rgb(173, 170, 170)";
@@ -151,6 +169,19 @@ Answer2.disabled = false;
 Answer3.disabled = false;
 
 setOptions();
+}
+
+function playAgain(){
+  points = 0;
+  round = 0;
+  updatePoints();
+  LoadText.style.display = "none";
+  loadQuestions();
+  Question.style.display = "block";
+  Answer1.style.display = "block"
+  Answer2.style.display = "block";
+  Answer3.style.display = "block";
+  play_again.style.display = "none";
 }
 
 function checkAnswers(button){      
@@ -176,7 +207,6 @@ points++;
     
   nextQ.style.visibility = "visible";                          // Zeigt den Button "Nächste Frage";
   updatePoints();                                              // (5) Zeigt neue Punkte Zahl
-  updateXpBar();
     }else{
       nextQ.style.visibility = "visible";                      // Zeigt den Button "Nächste Frage"
       updateBorder();
@@ -210,4 +240,5 @@ function updateXpBar(){
 
 function updatePoints(){                                        // Zeigt die neue Puktzahl
 Points.textContent= points;
+updateXpBar();
 }
