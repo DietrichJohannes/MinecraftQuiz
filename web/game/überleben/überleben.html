@@ -1,11 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">        
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Überleben</title>
+    <title>Spielen</title>
+    <link rel="stylesheet" href="../../data/index.css">
+    <link rel="icon" type="image/png" href="../../img/grass.png">
 </head>
 <body>
-    
+
+    <button class="MinecraftDesign" style="left: 0px; top: 0px; position: absolute; width: 65px;" title="Zurück" id="home" onclick="window.location.href = '../../menue/menue.html'"><img src="../../img/arrow_back.png" /></button>
+
+    <div id="QuestionDiv">
+        <div class="HeadlineDiv">
+            <h1 id="question" class="MinecraftDesign Hover">Frage</h1>
+        </div>
+
+        <div id="ChoiceDiv"> 
+            <center>
+            <h1 id="loadText" style="font-size: 50px; display: block;"></h1>
+            <div class="button-container">
+            <div class="ChoiceDiv2"><button title="Antwort 1" class="MinecraftDesign Choice" id="Choice1" onclick="checkAnswers(1);"></button></div>
+            <div class="ChoiceDiv2"><button title="Antwort 2" class="MinecraftDesign Choice" id="Choice2" onclick="checkAnswers(2);"></button></div>
+            <div class="ChoiceDiv2"><button title="Antwort 3" class="MinecraftDesign Choice" id="Choice3" onclick="checkAnswers(3);"></button></div>
+            </div>
+            <br>
+            <p id="points" title="Punkte" style="color: #A3E16E; font-size: 25px;">0</p>
+            <img src="../../img/XpBar/0.jpg" id="xpBar">
+            <br>
+            <br>
+            <br>
+            <br>
+            
+            <button title="Nächste Frage" class="MinecraftDesign Choice" id="NextQuestion" style="height: 50px;" onclick="nextQuestion()">Nächste Frage</button>
+            <button title="Nochmal Spielen" class="MinecraftDesign Choice" id="PlayAgain" style="height: 50px;" onclick="playAgain()">Nochmal Spielen</button>
+            </center>
+        
+        </div>
+
+        <div id="snackbar">
+            <p id="snackbarText"></p>   
+        </div>
+
+        <p style="font-size: 15px; position:absolute; bottom: 0px; right: 0px;" id="Version"></p>
+        <p style="font-size: 15px; position:absolute; bottom: 0px; left: 50%; transform: translateY(50%); background-color: gray; padding: 5px;" id="q_ID"></p>
+        <a style="font-size: 10px; position:absolute; bottom: 10px; right: 100px;" href="../../../general/impressum.html">Impressum</a>
+
+
+
+        <script type="text/javascript" src="überleben.js"></script>
+        <script type="text/javascript" src="../../data/index.js"></script>
 </body>
 </html>
