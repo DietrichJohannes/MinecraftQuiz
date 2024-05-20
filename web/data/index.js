@@ -4,6 +4,13 @@ var WebVersion = "";
 
 loadSplashText();
 
+document.addEventListener('DOMContentLoaded', (event) => {
+    document.addEventListener('contextmenu', (e) => {
+        e.preventDefault();
+
+    });
+});
+
 function Snackbar(text){
     // Get the snackbar DIV
     var x = document.getElementById("snackbar");

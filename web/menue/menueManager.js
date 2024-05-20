@@ -3,6 +3,13 @@
 var modeInt;
 var modeSelected = false;
 
+document.addEventListener('DOMContentLoaded', (event) => {
+   document.addEventListener('contextmenu', (e) => {
+       e.preventDefault();
+
+   });
+});
+
 function changeText(mode, modeString){
    modeInt = mode;
    document.getElementById('dropButton').value = modeString;

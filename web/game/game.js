@@ -63,6 +63,12 @@ async function loadQuestions(){                                   // loadQuestio
 
 } 
   
+document.addEventListener('DOMContentLoaded', (event) => {
+  document.addEventListener('contextmenu', (e) => {
+      e.preventDefault();
+
+  });
+});
 
 getURLMode();
 loadAnimation();

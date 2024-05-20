@@ -16,17 +16,17 @@ var rightAnswer = "0";                                            // Richtige An
 var points = 0;                                                   // Punkte
 
 var XpArray = [];
-XpArray.push('../img/XpBar/0.jpg');
-XpArray.push('../img/XpBar/2.jpg');
-XpArray.push('../img/XpBar/4.jpg');
-XpArray.push('../img/XpBar/6.jpg');
-XpArray.push('../img/XpBar/8.jpg');
-XpArray.push('../img/XpBar/10.jpg');
-XpArray.push('../img/XpBar/12.jpg');
-XpArray.push('../img/XpBar/14.jpg');
-XpArray.push('../img/XpBar/16.jpg');
-XpArray.push('../img/XpBar/18.jpg');
-XpArray.push('../img/XpBar/20.jpg');
+XpArray.push('../../img/XpBar/0.jpg');
+XpArray.push('../../img/XpBar/2.jpg');
+XpArray.push('../../img/XpBar/4.jpg');
+XpArray.push('../../img/XpBar/6.jpg');
+XpArray.push('../../img/XpBar/8.jpg');
+XpArray.push('../../img/XpBar/10.jpg');
+XpArray.push('../../img/XpBar/12.jpg');
+XpArray.push('../../img/XpBar/14.jpg');
+XpArray.push('../../img/XpBar/16.jpg');
+XpArray.push('../../img/XpBar/18.jpg');
+XpArray.push('../../img/XpBar/20.jpg');
 
 
 const Question = document.getElementById('question');               // Question Text  
@@ -64,7 +64,6 @@ async function loadQuestions(){                                   // loadQuestio
 } 
   
 
-getURLMode();
 loadAnimation();
                                                                 
 function loadAnimation(){                                  // Die Funktion loadAnimation versteckt alle Komponenten
