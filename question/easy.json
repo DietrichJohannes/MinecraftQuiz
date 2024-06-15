@@ -191,6 +191,30 @@
 "Antwort3": "Schweine",
 "Richtig": 1,
 "id": "ID: 2.23"
+},
+{
+"Frage": "War braucht man um einen Bogen zu craften",
+"Antwort1": "Stock und Seil",
+"Antwort2": "Stock und Faden",
+"Antwort3": "Holz und Faden",
+"Richtig": "2",
+"id": "2.24"
+},
+{
+"Frage": "Wie hoch kann der Spieler springen",
+"Antwort1": "Ein Block",
+"Antwort2": "Zwei Blöcke",
+"Antwort3": "Anderthalb Blöcke",
+"Richtig": "1",
+"id": "2.25"
+}, 
+{
+"Frage": "Welche Kreatur droppt Enderperlen",
+"Antwort1": "Enderdrache",
+"Antwort2": "Enderman",
+"Antwort3": "Hexe",
+"Richtig": "3",
+"id": "2.26"
 }
 ]
 }

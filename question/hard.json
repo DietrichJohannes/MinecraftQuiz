@@ -167,6 +167,30 @@
 "Antwort3": "Release",
 "Richtig": 1,
 "id": "ID: 4.20"
-    }
+},
+{
+"Frage": "Welche Items benötigt man, um einem Verzauberungstisch zu crafen",
+"Antwort1": "Obsidian, Gold, ein Buch",
+"Antwort2": "Obsidian, Diamanten, ein Buch",
+"Antwort3": "Obsidian, Eisen, und ein Buch",
+"Richtig": "2",
+"id": "4.21"
+},
+{
+"Frage": "In welchem Biom in dem Pilzkühe spawnen",
+"Antwort1": "Wald",
+"Antwort2": "Wüste",
+"Antwort3": "Mushroom Island",
+"Richtig": "3",
+"id": "4.22"
+}, 
+{
+"Frage": "Was benötigt man, um Tränke zu brauen",
+"Antwort1": "Braustand, Wasserflasche, Zutaten",
+"Antwort2": "Werkbank, Eimer, Pflanzen",
+"Antwort3": "Ofen, Flasche, Enderperle",
+"Richtig": "1",
+"id": "4.23"
+}
 ]
 }

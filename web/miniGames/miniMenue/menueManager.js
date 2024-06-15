@@ -12,7 +12,7 @@ function changeText(mode, modeString){
 function startGame(){
    if(modeSelected){
       if(modeInt == 0){
-   window.open("../steve/steve.html");
+   window.open("../jump/jump.html");
       }else{
          if(modeInt == 1){
             window.open("../tetris/tetris.html");

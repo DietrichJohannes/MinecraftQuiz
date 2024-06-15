@@ -175,6 +175,38 @@
 "Antwort3": "2 Blöcke",
 "Richtig": 3,
 "id": "ID: 1.21"
+},
+{
+"Frage": "Aus welchem Material besteht die Werkbank",
+"Antwort1": "Stein",
+"Antwort2": "Holz",
+"Antwort3": "Äste",
+"Richtig": "2",
+"id": "1.22"    
+},
+{
+"Frage": "Welche Kreatur explodiert, wenn der Spieler zu nahe kommt",
+"Antwort1": "Creeper",
+"Antwort2": "Skelett",
+"Antwort3": "Zombi",
+"Richtig": "1",
+"id": "1.23"
+}, 
+{
+"Frage": "Wo lebt der Enderdrache",
+"Antwort1": "Stronghold",
+"Antwort2": "Nether",
+"Antwort3": "The End",
+"Richtig": "2",
+"id": "1.24"
+},
+{
+"Frage": "Gibt es in Minecraft mehr als 4 Dimensionen",
+"Antwort1": "Ja",
+"Antwort2": "Nein",
+"Antwort3": null,
+"Richtig": "2",
+"id": "1.25"
 }
 ]
 }
