@@ -180,7 +180,7 @@
 "Frage": "Aus welchem Material besteht die Werkbank",
 "Antwort1": "Stein",
 "Antwort2": "Holz",
-"Antwort3": "Äste",
+"Antwort3": "Eisen",
 "Richtig": "2",
 "id": "1.22"    
 },
@@ -197,7 +197,7 @@
 "Antwort1": "Stronghold",
 "Antwort2": "Nether",
 "Antwort3": "The End",
-"Richtig": "2",
+"Richtig": "3",
 "id": "1.24"
 },
 {

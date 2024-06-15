@@ -16,6 +16,10 @@ function startGame(){
       }else{
          if(modeInt == 1){
             window.open("../tetris/tetris.html");
+         }else{
+            if(modeInt == 2){
+               window.open("../labyrinth/labyrinth.html")
+            }
          }
       }
    }else{

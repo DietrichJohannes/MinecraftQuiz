@@ -215,6 +215,14 @@
 "Antwort3": "Hexe",
 "Richtig": "3",
 "id": "2.26"
+},
+{
+"Frage": "Wie viele Pixel hat ein Block (ohne texture packs)",
+"Antwort1": "8 Pixel",
+"Antwort2": "16 Pixel",
+"Antwort3": "32 Pixel",
+"Richtig": "2",
+"id": "2.27"
 }
 ]
 }
