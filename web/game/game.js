@@ -134,7 +134,7 @@ Answer2.title = answer2;
 Answer3.innerHTML = answer3;                                   // Antwort 3 anzeigen
 Answer3.title = answer3;
 
-QuestionID.innerHTML = QID;                                    // Fragen ID anzeigen
+QuestionID.innerHTML = "ID: " + QID;                           // Fragen ID anzeigen
 
 round++;                                                       // Runde wird erhöt
   }else{

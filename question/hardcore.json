@@ -6,7 +6,7 @@
 "Antwort2": "0,168%",
 "Antwort3": "0,361%",
 "Richtig": 2,
-"id": "ID: 5.00"
+"id": "5.00"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass man, mit einer unverzauberten Angel, ein verzaubertes Buch angelt",
@@ -14,7 +14,7 @@
 "Antwort2": "1,5%",
 "Antwort3": "0,1%",
 "Richtig": 1,
-"id": "ID: 5.01"
+"id": "5.01"
 },
 {
 "Frage": "Wie lange braucht man um Obsidian mit der Hand abzubauen",
@@ -22,7 +22,7 @@
 "Antwort2": "250s",
 "Antwort3": "300s",
 "Richtig": 2,
-"id": "ID: 5.02"
+"id": "5.02"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Witherskelett seinen Kopf droppt",
@@ -30,7 +30,7 @@
 "Antwort2": "5,5%",
 "Antwort3": "2,5%",
 "Richtig": 3,
-"id": "ID: 5.03"
+"id": "5.03"
 },
 {
 "Frage": "Wie hoch ist die Warscheinlichkeit, dass ein Erwachsenes braunes Schaf spawnt",
@@ -38,7 +38,7 @@
 "Antwort2": "2%",
 "Antwort3": "1%",
 "Richtig": 1,
-"id": "ID: 5.04"
+"id": "5.04"
 },
 {
 "Frage": "Wie viele Splash-Texte (Gelber Text im Startmenü) gibt es in Minecraft",
@@ -46,7 +46,7 @@
 "Antwort2": "254",
 "Antwort3": "376",
 "Richtig": 3,
-"id": "ID: 5.05"
+"id": "5.05"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Endportal Frame ein Enderauge enthält",
@@ -54,7 +54,7 @@
 "Antwort2": "10%",
 "Antwort3": "5%",
 "Richtig": 2,
-"id": "ID: 5.06"
+"id": "5.06"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Endportal 12 Enderaugen enthält",
@@ -62,7 +62,7 @@
 "Antwort2": "0,00000001%",
 "Antwort3": "0,0000000000001%",
 "Richtig": 1,
-"id": "ID: 5.07"
+"id": "5.07"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie mit Diamant Helm spawnt",
@@ -70,7 +70,7 @@
 "Antwort2": "0,006%",
 "Antwort3": "0,13%",
 "Richtig": 2,
-"id": "ID: 5.08"
+"id": "5.08"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Fuchs mit einem Emerald in seinem Mund spawnt",
@@ -78,7 +78,7 @@
 "Antwort2": "3%",
 "Antwort3": "5%",
 "Richtig": 3,
-"id": "ID: 5.09"
+"id": "5.09"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie einen Eisenbaren droppt",
@@ -86,7 +86,7 @@
 "Antwort2": "3%",
 "Antwort3": "0,83%",
 "Richtig": 3,
-"id": "ID: 5.10"
+"id": "5.10"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass Blätter einen Apfel droppen",
@@ -94,7 +94,7 @@
 "Antwort2": "1%",
 "Antwort3": "5%",
 "Richtig": 1,
-"id": "ID: 5.11"
+"id": "5.11"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie mit einer Waffe spawnt",
@@ -102,7 +102,7 @@
 "Antwort2": "1%",
 "Antwort3": "3%",
 "Richtig": 1,
-"id": "ID: 5.12"
+"id": "5.12"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie, in einem Huhn freiem Bereich, auf einem Huhn spawnt",
@@ -110,7 +110,7 @@
 "Antwort2": "0,01%",
 "Antwort3": "0,25%",
 "Richtig": 3,
-"id": "ID: 5.13"
+"id": "5.13"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Bienennest an einem Birkenbaum, in einem Birkenwald, generiert",
@@ -118,7 +118,7 @@
 "Antwort2": "1,2%",
 "Antwort3": "0,2%",
 "Richtig": 3,
-"id": "ID: 5.14"
+"id": "5.14"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass am 31 Oktober ein Zombifizierter Piglin mit einer Kürbislaterne spawnt",
@@ -126,7 +126,7 @@
 "Antwort2": "10%",
 "Antwort3": "31%",
 "Richtig": 1,
-"id": "ID: 5.15"
+"id": "5.15"
 },
 {
 "Frage": "Wie Wahrscheinlich ist es das ein braunes Baby Schaf spawnt",
@@ -134,7 +134,7 @@
 "Antwort2": "0,75%",
 "Antwort3": "0,05%",
 "Richtig": 1,
-"id": "ID: 5.16"
+"id": "5.16"
 },
 {
 "Frage": "Zu welcher Warscheinlichkeit kann ein Zombifizierter Piglin, jeden Tick auf einem Netherportal Block spawnen",
@@ -142,7 +142,7 @@
 "Antwort2": "0,05%",
 "Antwort3": "5%",
 "Richtig": 2,
-"id": "ID: 5.17"
+"id": "5.17"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, während einem Tick, dass ein Blitz irgendwo in einem Chunk einschlägt",
@@ -150,7 +150,7 @@
 "Antwort2": "0,001%",
 "Antwort3": "0,003%",
 "Richtig": 2,
-"id": "ID: 5.18"
+"id": "5.18"
 },
 {
 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass sich eine Eisen, Gold und Diamant Pferderüstung in einer Kiste, im Stonghold befinden",
@@ -158,7 +158,7 @@
 "Antwort2": "0,00175%",
 "Antwort3": "0,00077%",
 "Richtig": 1,
-"id": "ID: 5.19"
+"id": "5.19"
 }
 ]
 }

@@ -6,7 +6,7 @@
     "Antwort2": "Mit farbigem Wasser",
     "Antwort3": "Mit Farbstoff",
     "Richtig": 3,
-    "id": "ID: 2.00"
+    "id": "2.00"
     },
     {
     "Frage": "Kann man im Nether schlafen",
@@ -14,7 +14,7 @@
     "Antwort2": "Nein",
     "Antwort3": "Nur Nachts",
     "Richtig": 2,
-    "id": "ID: 2.01"
+    "id": "2.01"
     },
     {
     "Frage": "Wie bekommt man Blätterblöcke",
@@ -22,7 +22,7 @@
     "Antwort2": "Mit einer Schere",
     "Antwort3": "Mit einer Hacke",
     "Richtig": 2,
-    "id": "ID: 2.02"
+    "id": "2.02"
     },
     {
     "Frage": "Wie viel Blöcke Obsidian braucht man mindestens für ein Netherportal",
@@ -30,7 +30,7 @@
     "Antwort2": "14",
     "Antwort3": "12",
     "Richtig": 1,
-    "id": "ID: 2.03"
+    "id": "2.03"
     },
     {
     "Frage": "Vor was hat ein Enderman Angst",
@@ -38,7 +38,7 @@
     "Antwort2": "Wasser",
     "Antwort3": "Katzen",
     "Richtig": 2,
-    "id": "ID: 2.04"
+    "id": "2.04"
     },
     {
     "Frage": "Was von dieser Auswahl kann man benutzen um einen Craftingtable zu bauen",
@@ -46,7 +46,7 @@
     "Antwort2": "3 Holzbrätter",
     "Antwort3": "2 Stöcke, 2 Holzbretter",
     "Richtig": 1,
-    "id": "ID: 2.05"
+    "id": "2.05"
     },
     {
     "Frage": "Was kann man aus einem Totem Busch bekommen wenn man ihn abbaut?",
@@ -54,7 +54,7 @@
     "Antwort2": "Stöcke",
     "Antwort3": "Toter Busch",
     "Richtig": 2,
-    "id": "ID: 2.06"
+    "id": "2.06"
     },
     {
     "Frage": "Mit welcher Taste kann man sich seine Koordinaten anzeigen (Java)",
@@ -62,7 +62,7 @@
     "Antwort2": "F4",
     "Antwort3": "F3",
     "Richtig": 3,
-    "id": "ID: 2.07"
+    "id": "2.07"
     },
     {
     "Frage": "Wie lässt man alle Effekte sofort verfallen",
@@ -70,7 +70,7 @@
     "Antwort2": "Ins Wasser springen",
     "Antwort3": "Milch trinken",
     "Richtig": 3,
-    "id": "ID: 2.08"
+    "id": "2.08"
     },
     {
     "Frage": "Wie heilt man einen Zombivillager",
@@ -78,7 +78,7 @@
     "Antwort2": "Schwächetrank + Goldapfel",
     "Antwort3": "Goldapfel",
     "Richtig": 2,
-    "id": "ID: 2.09"
+    "id": "2.09"
     },
     {
     "Frage": "Giebt es rote Kühe",
@@ -86,7 +86,7 @@
     "Antwort2": "Nein",
     "Antwort3": null,
     "Richtig": 1,
-    "id": "ID: 2.10"
+    "id": "2.10"
     },
     {
     "Frage": "Wie viele Spinnenarten giebt es",
@@ -94,7 +94,7 @@
     "Antwort2": "1",
     "Antwort3": "4",
     "Richtig": 1,
-    "id": "ID: 2.11"
+    "id": "2.11"
     },
     {
     "Frage": "In welcher Schwierigkeit kann man an Hunger sterben",
@@ -102,7 +102,7 @@
     "Antwort2": "Normal",
     "Antwort3": "Schwer",
     "Richtig": 3,
-    "id": "ID: 2.12"
+    "id": "2.12"
     },
     {
     "Frage": "Vor welchem Tier hat ein Creeper angst",
@@ -110,7 +110,7 @@
     "Antwort2": "Hunde",
     "Antwort3": "Schafe",
     "Richtig": 1,
-    "id": "ID: 2.13"
+    "id": "2.13"
     },
     {
     "Frage": "Was braucht man um einen Eisengolem zu bauen",
@@ -118,7 +118,7 @@
     "Antwort2": "2 Eisenblöcke + 1 geschnitzter Kürbis",
     "Antwort3": "4 Eisenblöcke + 1 Kürbis",
     "Richtig": 1,
-    "id": "ID: 2.14"
+    "id": "2.14"
     },
     {
     "Frage": "Kann man einen Enderman mit einem Bogen abschießen",
@@ -126,7 +126,7 @@
     "Antwort2": "Nein",
     "Antwort3": null,
     "Richtig": 2,
-    "id": "ID: 2.15"
+    "id": "2.15"
     },
     {
     "Frage": "Welcher Mob droppt ein Totem",
@@ -134,7 +134,7 @@
     "Antwort2": "Whither",
     "Antwort3": "Evoker",
     "Richtig": 3,
-    "id": "ID: 2.16"
+    "id": "2.16"
     },
     {
     "Frage": "Welcher Job braucht ein Villager, um Pfeile zu traden",
@@ -142,7 +142,7 @@
     "Antwort2": "Cleric",
     "Antwort3": "Butcher",
     "Richtig": 1,
-    "id": "ID: 2.17"
+    "id": "2.17"
     },
     {
     "Frage": "Wie stellt man eine große Kiste her",
@@ -150,7 +150,7 @@
     "Antwort2": "Drei Kisten nebeneinander stellen",
     "Antwort3": "Zwei Kisten nebeneinander stellen",
     "Richtig": 3,
-    "id": "ID: 2.18"
+    "id": "2.18"
     },
     {
     "Frage": "Was passiert mit einem Kessel, der im Regen steht",
@@ -158,7 +158,7 @@
     "Antwort2": "Er füllt sich",
     "Antwort3": "Nichts",
     "Richtig": 2,
-    "id": "ID: 2.19"
+    "id": "2.19"
     },
     {
     "Frage": "Wie viele Dimensionen giebt es in Minecraft",
@@ -166,7 +166,7 @@
     "Antwort2": "2",
     "Antwort3": "3",
     "Richtig": 3,
-    "id": "ID: 2.20"
+    "id": "2.20"
     },
     {
     "Frage": "Welcher Mob brennt im Sonnenlicht",
@@ -174,7 +174,7 @@
     "Antwort2": "Zombi",
     "Antwort3": "Enderman",
     "Richtig": 2,
-    "id": "ID: 2.21"
+    "id": "2.21"
     },
     {
     "Frage": "Wie lange dauert ein Tag in Minecraft",
@@ -182,7 +182,7 @@
     "Antwort2": "10 Minuten",
     "Antwort3": "15 Minuten",
     "Richtig": 1,
-    "id": "ID: 2.22"
+    "id": "2.22"
     },
     {
     "Frage": "Welches Tier bringt dir ein Geschenk, wenn du schläfst",
@@ -190,7 +190,7 @@
     "Antwort2": "Lamas",
     "Antwort3": "Schweine",
     "Richtig": 1,
-    "id": "ID: 2.23"
+    "id": "2.23"
     },
     {
         "Frage": "Was baut man als aller erstes ab, wenn man eine neue Minecraftwelt erstellt",
@@ -198,7 +198,7 @@
         "Antwort2": "Stein",
         "Antwort3": "Eisen",
         "Richtig": 1,
-        "id": "ID: 1.00"
+        "id": "1.00"
         },
         {
         "Frage": "Was macht man in seiner aller ersten Minecraft Nacht",
@@ -206,7 +206,7 @@
         "Antwort2": "Ängstlich einbauen",
         "Antwort3": "Jedes Monster Töten",
         "Richtig": 2,
-        "id": "ID: 1.01"
+        "id": "1.01"
         },
         {
         "Frage": "Mit welchem Item füttert man ein Huhn",
@@ -214,7 +214,7 @@
         "Antwort2": "Weizen",
         "Antwort3": "Samen",
         "Richtig": 3,
-        "id": "ID: 1.02"
+        "id": "1.02"
         },
         {
         "Frage": "Fleißt Wasser schneller als Lava",
@@ -222,7 +222,7 @@
         "Antwort2": "Nein",
         "Antwort3": "Ja, im Nether",
         "Richtig": 1,
-        "id": "ID: 1.03"
+        "id": "1.03"
         },
         {
         "Frage": "Wie viele Bretter ergeben 13 Holzstämme",
@@ -230,7 +230,7 @@
         "Antwort2": "64",
         "Antwort3": "48",
         "Richtig": 1,
-        "id": "ID: 1.04"
+        "id": "1.04"
         },
         {
         "Frage": "Wie groß ist ein Stack Schneebälle ",
@@ -238,7 +238,7 @@
         "Antwort2": "16",
         "Antwort3": "45",
         "Richtig": 2,
-        "id": "ID: 1.05"
+        "id": "1.05"
         },
         {
         "Frage": "Welches Tier dropt Leder",
@@ -246,7 +246,7 @@
         "Antwort2": "Schaf",
         "Antwort3": "Kuh",
         "Richtig": 3,
-        "id": "ID: 1.06"
+        "id": "1.06"
         },
         {
         "Frage": "Können in der Schwierigkeit Friedlich feindliche Mobs spawnen",
@@ -254,7 +254,7 @@
         "Antwort2": "Nur Creeper",
         "Antwort3": "Nein",
         "Richtig": 3,
-        "id": "ID: 1.07"
+        "id": "1.07"
         },
         {
         "Frage": "Mit welcher dieser Spitzhacken kann man einen Diamanten abbauen",
@@ -262,7 +262,7 @@
         "Antwort2": "Eisenspitzhacke",
         "Antwort3": "Goldspitzhacke",
         "Richtig": 2,
-        "id": "ID: 1.08"
+        "id": "1.08"
         },
         {
         "Frage": "Was passiert wenn man mit einem Delphin schwimmt",
@@ -270,7 +270,7 @@
         "Antwort2": "Man zähmt ihn",
         "Antwort3": "Man wird schneller",
         "Richtig": 3,
-        "id": "ID: 1.09"
+        "id": "1.09"
         },
         {
         "Frage": "Was braucht man um auf einem Schwein zu sitzen",
@@ -278,7 +278,7 @@
         "Antwort2": "Sattel",
         "Antwort3": "Schweinerüstung",
         "Richtig": 2,
-        "id": "ID: 1.10"
+        "id": "1.10"
         },
         {
         "Frage": "Wie heißt der erste Skin den jeder hat",
@@ -286,7 +286,7 @@
         "Antwort2": "Gustav",
         "Antwort3": "Wolfgang",
         "Richtig": 1,
-        "id": "ID: 1.11"
+        "id": "1.11"
         },
         {
         "Frage": "Giebt es in Minecraft einen Mond",
@@ -294,7 +294,7 @@
         "Antwort2": "Nein",
         "Antwort3": null,
         "Richtig": 1,
-        "id": "ID: 1.12"
+        "id": "1.12"
         },
         {
         "Frage": "Geht die minimale Bauhöhe in der 1.18 in den negativen Bereich", 
@@ -302,7 +302,7 @@
         "Antwort2": "Nein",
         "Antwort3": null,
         "Richtig": 1,
-        "id": "ID: 1.13"
+        "id": "1.13"
         },
         {
         "Frage": "Kann man in Minecraft Java seinen eigenen Skin zeichnen und benutzen",
@@ -310,7 +310,7 @@
         "Antwort2": "Nein",
         "Antwort3": null,
         "Richtig": 1,
-        "id": "ID: 1.14"
+        "id": "1.14"
         },
         {
         "Frage": "Können rote Schafe spawnen",
@@ -318,7 +318,7 @@
         "Antwort2": "Nein",
         "Antwort3": null,
         "Richtig": 1,
-        "id": "ID: 1.15"
+        "id": "1.15"
         },
         {
         "Frage": "Wie vermehrt man zwei gleiche Tiere",
@@ -326,7 +326,7 @@
         "Antwort2": "Beide füttern",
         "Antwort3": "Beide in ein Boot setzen",
         "Richtig": 2,
-        "id": "ID: 1.16"
+        "id": "1.16"
         },
         {
         "Frage": "Was dropt ein Eisengolem noch außer Eisen",
@@ -334,7 +334,7 @@
         "Antwort2": "Eimer",
         "Antwort3": "Sonnenblume",
         "Richtig": 1,
-        "id": "ID: 1.17"
+        "id": "1.17"
         },
         {
         "Frage": "Was passiert, wenn man im Nether Wasser platziert",
@@ -342,7 +342,7 @@
         "Antwort2": "Es fließt ganz langsam",
         "Antwort3": "Es verdampft",
         "Richtig": 3,
-        "id": "ID: 1.18"
+        "id": "1.18"
         },
         {
         "Frage": "Was passiert, wenn man mit einer Schaufel Rechtsklick auf einen Grasblock macht",
@@ -350,7 +350,7 @@
         "Antwort2": "Wird zum Weg",
         "Antwort3": "Nichts",
         "Richtig": 2,
-        "id": "ID: 1.19"
+        "id": "1.19"
         },
         {
         "Frage": "Wie viele Leben hat der Spieler",
@@ -358,7 +358,7 @@
         "Antwort2": "10",
         "Antwort3": "15",
         "Richtig": 1,
-        "id": "ID: 1.20"
+        "id": "1.20"
         },
         {
         "Frage": "Wie groß ist der Spieler",
@@ -366,7 +366,7 @@
         "Antwort2": "3 Blöcke",
         "Antwort3": "2 Blöcke",
         "Richtig": 3,
-        "id": "ID: 1.21"
+        "id": "1.21"
         },
         {
             "Frage": "Wann wurde Minecraft eintwickelt",
@@ -374,7 +374,7 @@
             "Antwort2": "2006",
             "Antwort3": "2010",
             "Richtig": 1,
-            "id": "ID: 4.00"
+            "id": "4.00"
             },
             {
             "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Wolf gezähmt wird, wenn man ihm einen Knochen gibt",
@@ -382,7 +382,7 @@
             "Antwort2": "1/5",
             "Antwort3": "1/3",
             "Richtig": 3,
-            "id": "ID: 4.01"
+            "id": "4.01"
             },
             {
             "Frage": "Aus welchem Land kommt Minecraft",
@@ -390,7 +390,7 @@
             "Antwort2": "Deutschland",
             "Antwort3": "Schweden",
             "Richtig": 3,
-            "id": "ID: 4.02"
+            "id": "4.02"
             },
             {
             "Frage": "Kann man mit einer Goldspitzhacke Gold abbauen",
@@ -398,7 +398,7 @@
             "Antwort2": "Nein",
             "Antwort3": null,
             "Richtig": 2,
-            "id": "ID: 4.03"
+            "id": "4.03"
             },
             {
             "Frage": "Was ist das Maximale Lichtlevel",
@@ -406,7 +406,7 @@
             "Antwort2": "10",
             "Antwort3": "15",
             "Richtig": 3,
-            "id": "ID: 4.04"
+            "id": "4.04"
             },
             {
             "Frage": "Wie viele Arbeitsblöcke gibt es",
@@ -414,7 +414,7 @@
             "Antwort2": "13",
             "Antwort3": "15",
             "Richtig": 2,
-            "id": "ID: 4.05"
+            "id": "4.05"
             },
             {
             "Frage": "Was braucht man für eine einfache Redstone-Clock",
@@ -422,7 +422,7 @@
             "Antwort2": "Komperator, Redstone",
             "Antwort3": "Redstone, Repeater, Redstonefackel",
             "Richtig": 1,
-            "id": "ID: 4.06"
+            "id": "4.06"
             },
             {
             "Frage": "Mit welcher Tastenkombination wechselt man bei der java Edition schnell in den Kreativ Modus",
@@ -430,7 +430,7 @@
             "Antwort2": "F5 + F6",
             "Antwort3": "F3 + F4",
             "Richtig": 3,
-            "id": "ID: 4.07"
+            "id": "4.07"
             },
             {
             "Frage": "Wie viele verschiedene Bastionen gibt es",
@@ -438,7 +438,7 @@
             "Antwort2": "3",
             "Antwort3": "4",
             "Richtig": 3,
-            "id": "ID: 4.08"
+            "id": "4.08"
             },
             {
             "Frage": "Von wie vielen Blöcken muss man springen, damit man nur noch ein halbes Herz hat",
@@ -446,7 +446,7 @@
             "Antwort2": "22",
             "Antwort3": "20",
             "Richtig": 2,
-            "id": "ID: 4.09"
+            "id": "4.09"
             },
             {
             "Frage": "Wie viele verschiedene nätürlich vorkommende Tropenfische gibt es",
@@ -454,7 +454,7 @@
             "Antwort2": "2000",
             "Antwort3": "1500",
             "Richtig": 1,
-            "id": "ID: 4.10"
+            "id": "4.10"
             },
             {
             "Frage": "Auf welcher Höhe generiert die meiste Kohle",
@@ -462,7 +462,7 @@
             "Antwort2": "50 - 60",
             "Antwort3": "96 - 96",
             "Richtig": 3,
-            "id": "ID: 4.11"
+            "id": "4.11"
             },
             {
             "Frage": "Was ist die Brenndauer eines Lavaeimers",
@@ -470,7 +470,7 @@
             "Antwort2": "1000s",
             "Antwort3": "10min",
             "Richtig": 2,
-            "id": "ID: 4.12"
+            "id": "4.12"
             },
             {
             "Frage": "Wie viele Erzblöcke braucht man für ein Full Beacon",
@@ -478,7 +478,7 @@
             "Antwort2": "164",
             "Antwort3": "192",
             "Richtig": 2,
-            "id": "ID: 4.13"
+            "id": "4.13"
             },
             {
             "Frage": "Mit welcher Tastenkombination lässt man sihc die Chunks anzeigen",
@@ -486,7 +486,7 @@
             "Antwort2": "F3 + C",
             "Antwort3": "F3 + s",
             "Richtig": 1,
-            "id": "ID: 4.14"
+            "id": "4.14"
             },
             {
             "Frage": "Wie muss man ein Schaf benennen, damit es zum Regenbogenschaf wird",
@@ -494,7 +494,7 @@
             "Antwort2": "jep_",
             "Antwort3": "_rainbow_",
             "Richtig": 2,
-            "id": "ID: 4.15"
+            "id": "4.15"
             },
             {
             "Frage": "Wer hat Minecraft entwickelt",
@@ -502,7 +502,7 @@
             "Antwort2": "Jens Bergernsten",
             "Antwort3": "Markus Alesej Persson",
             "Richtig": 3,
-            "id": "ID: 4.16"
+            "id": "4.16"
             },
             {
             "Frage": "Wie viele Tiere können maximal in ein 1 Block breites Loch, ohne das welche ersticken",
@@ -510,7 +510,7 @@
             "Antwort2": "24",
             "Antwort3": "19",
             "Richtig": 2,
-            "id": "ID: 4.17"
+            "id": "4.17"
             },
             {
             "Frage": "An welchem Datum wurde Minecraft released",
@@ -518,7 +518,7 @@
             "Antwort2": "15. Oktober 2014",
             "Antwort3": "29. April 2009",
             "Richtig": 1,
-            "id": "ID: 4.18"
+            "id": "4.18"
             },
             {
             "Frage": "Mit welchem Werkzeug baut man Kies am effektivsten ab",
@@ -526,7 +526,7 @@
             "Antwort2": "Eimer",
             "Antwort3": "Schaufel",
             "Richtig": 3,
-            "id": "ID: 4.19"
+            "id": "4.19"
             },
             {
             "Frage": "In welcher Version kamen erstmals Skelette in Minecraft vor",
@@ -534,7 +534,7 @@
             "Antwort2": "Beta",
             "Antwort3": "Release",
             "Richtig": 1,
-            "id": "ID: 4.20"
+            "id": "4.20"
             },
             {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Erwachsenes pinkes Schaf spawnt",
@@ -542,7 +542,7 @@
                 "Antwort2": "0,168%",
                 "Antwort3": "0,361%",
                 "Richtig": 2,
-                "id": "ID: 5.00"
+                "id": "5.00"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass man, mit einer unverzauberten Angel, ein verzaubertes Buch angelt",
@@ -550,7 +550,7 @@
                 "Antwort2": "1,5%",
                 "Antwort3": "0,1%",
                 "Richtig": 1,
-                "id": "ID: 5.01"
+                "id": "5.01"
                 },
                 {
                 "Frage": "Wie lange braucht man um Obsidian mit der Hand abzubauen",
@@ -558,7 +558,7 @@
                 "Antwort2": "250s",
                 "Antwort3": "300s",
                 "Richtig": 2,
-                "id": "ID: 5.02"
+                "id": "5.02"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Witherskelett seinen Kopf droppt",
@@ -566,7 +566,7 @@
                 "Antwort2": "5,5%",
                 "Antwort3": "2,5%",
                 "Richtig": 3,
-                "id": "ID: 5.03"
+                "id": "5.03"
                 },
                 {
                 "Frage": "Wie hoch ist die Warscheinlichkeit, dass ein Erwachsenes braunes Schaf spawnt",
@@ -574,7 +574,7 @@
                 "Antwort2": "2%",
                 "Antwort3": "1%",
                 "Richtig": 1,
-                "id": "ID: 5.04"
+                "id": "5.04"
                 },
                 {
                 "Frage": "Wie viele Splash-Texte (Gelber Text im Startmenü) gibt es in Minecraft",
@@ -582,7 +582,7 @@
                 "Antwort2": "254",
                 "Antwort3": "376",
                 "Richtig": 3,
-                "id": "ID: 5.05"
+                "id": "5.05"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Endportal Frame ein Enderauge enthält",
@@ -590,7 +590,7 @@
                 "Antwort2": "10%",
                 "Antwort3": "5%",
                 "Richtig": 2,
-                "id": "ID: 5.06"
+                "id": "5.06"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Endportal 12 Enderaugen enthält",
@@ -598,7 +598,7 @@
                 "Antwort2": "0,00000001%",
                 "Antwort3": "0,0000000000001%",
                 "Richtig": 1,
-                "id": "ID: 5.07"
+                "id": "5.07"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie mit Diamant Helm spawnt",
@@ -606,7 +606,7 @@
                 "Antwort2": "0,006%",
                 "Antwort3": "0,13%",
                 "Richtig": 2,
-                "id": "ID: 5.08"
+                "id": "5.08"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Fuchs mit einem Emerald in seinem Mund spawnt",
@@ -614,7 +614,7 @@
                 "Antwort2": "3%",
                 "Antwort3": "5%",
                 "Richtig": 3,
-                "id": "ID: 5.09"
+                "id": "5.09"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie einen Eisenbaren droppt",
@@ -622,7 +622,7 @@
                 "Antwort2": "3%",
                 "Antwort3": "0,83%",
                 "Richtig": 3,
-                "id": "ID: 5.10"
+                "id": "5.10"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass Blätter einen Apfel droppen",
@@ -630,7 +630,7 @@
                 "Antwort2": "1%",
                 "Antwort3": "5%",
                 "Richtig": 1,
-                "id": "ID: 5.11"
+                "id": "5.11"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie mit einer Waffe spawnt",
@@ -638,7 +638,7 @@
                 "Antwort2": "1%",
                 "Antwort3": "3%",
                 "Richtig": 1,
-                "id": "ID: 5.12"
+                "id": "5.12"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Zombie, in einem Huhn freiem Bereich, auf einem Huhn spawnt",
@@ -646,7 +646,7 @@
                 "Antwort2": "0,01%",
                 "Antwort3": "0,25%",
                 "Richtig": 3,
-                "id": "ID: 5.13"
+                "id": "5.13"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass ein Bienennest an einem Birkenbaum, in einem Birkenwald, generiert",
@@ -654,7 +654,7 @@
                 "Antwort2": "1,2%",
                 "Antwort3": "0,2%",
                 "Richtig": 3,
-                "id": "ID: 5.14"
+                "id": "5.14"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass am 31 Oktober ein Zombifizierter Piglin mit einer Kürbislaterne spawnt",
@@ -662,7 +662,7 @@
                 "Antwort2": "10%",
                 "Antwort3": "31%",
                 "Richtig": 1,
-                "id": "ID: 5.15"
+                "id": "5.15"
                 },
                 {
                 "Frage": "Wie Wahrscheinlich ist es das ein braunes Baby Schaf spawnt",
@@ -670,7 +670,7 @@
                 "Antwort2": "0,75%",
                 "Antwort3": "0,05%",
                 "Richtig": 1,
-                "id": "ID: 5.16"
+                "id": "5.16"
                 },
                 {
                 "Frage": "Zu welcher Warscheinlichkeit kann ein Zombifizierter Piglin, jeden Tick auf einem Netherportal Block spawnen",
@@ -678,7 +678,7 @@
                 "Antwort2": "0,05%",
                 "Antwort3": "5%",
                 "Richtig": 2,
-                "id": "ID: 5.17"
+                "id": "5.17"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, während einem Tick, dass ein Blitz irgendwo in einem Chunk einschlägt",
@@ -686,7 +686,7 @@
                 "Antwort2": "0,001%",
                 "Antwort3": "0,003%",
                 "Richtig": 2,
-                "id": "ID: 5.18"
+                "id": "5.18"
                 },
                 {
                 "Frage": "Wie hoch ist die Wahrscheinlichkeit, dass sich eine Eisen, Gold und Diamant Pferderüstung in einer Kiste, im Stonghold befinden",
@@ -694,7 +694,7 @@
                 "Antwort2": "0,00175%",
                 "Antwort3": "0,00077%",
                 "Richtig": 1,
-                "id": "ID: 5.19"
+                "id": "5.19"
                 },
                 {
                     "Frage": "Wer ist der bekannteste deutsche Minecraft youtuber",
@@ -702,7 +702,7 @@
                     "Antwort2": "Stegi",
                     "Antwort3": "Trymacs",
                     "Richtig": 1,
-                    "id": "ID: 3.00"
+                    "id": "3.00"
                     },
                     {
                     "Frage": "Wie kann man eine Endermid spawnen",
@@ -710,7 +710,7 @@
                     "Antwort2": "Spawnei finden",
                     "Antwort3": "Choruspflanzen abbauen",
                     "Richtig": 1,
-                    "id": "ID: 3.01"
+                    "id": "3.01"
                     },
                     {
                     "Frage": "Wird Fallschaden von Honig abgedämpft",
@@ -718,7 +718,7 @@
                     "Antwort2": "Nein",
                     "Antwort3": null,
                     "Richtig": 1,
-                    "id": "ID: 3.02"
+                    "id": "3.02"
                     },
                     {
                     "Frage": "Wie viele Bienen können gleichzeitig in ein Nest",
@@ -726,7 +726,7 @@
                     "Antwort2": "5",
                     "Antwort3": "2",
                     "Richtig": 1,
-                    "id": "ID: 3.03"
+                    "id": "3.03"
                     },
                     {
                     "Frage": "Was braucht man um den Wither zu spawnen",
@@ -734,7 +734,7 @@
                     "Antwort2": "3 Witherköpfe + 3 Seelensand",
                     "Antwort3": "3 Witherköpfe + 4 Seelenerde",
                     "Richtig": 3,
-                    "id": "ID: 3.04"
+                    "id": "3.04"
                     },
                     {
                     "Frage": "Wie viele unterschiedliche Netherbiome giebt es",
@@ -742,7 +742,7 @@
                     "Antwort2": "5",
                     "Antwort3": "7",
                     "Richtig": 2,
-                    "id": "ID: 3.05"
+                    "id": "3.05"
                     },
                     {
                     "Frage": "Mit welcher Hilfe, bekommt man einen Zombiekopf",
@@ -750,7 +750,7 @@
                     "Antwort2": "Feuerzeug",
                     "Antwort3": "Charged Creeper",
                     "Richtig": 3,
-                    "id": "ID: 3.06"
+                    "id": "3.06"
                     },
                     {
                     "Frage": "Auf welcher höhe ist es am besten Diamanten zu farmen",
@@ -758,7 +758,7 @@
                     "Antwort2": "11",
                     "Antwort3": "-50",
                     "Richtig": 1,
-                    "id": "ID: 3.07"
+                    "id": "3.07"
                     },
                     {
                     "Frage": "Was droppt ein Schwein wenn es vom Wither getötet wird",
@@ -766,7 +766,7 @@
                     "Antwort2": "Witherrose + Schweinefleisch",
                     "Antwort3": "Schweinefleisch",
                     "Richtig": 2,
-                    "id": "ID: 3.08"
+                    "id": "3.08"
                     },
                     {
                     "Frage": "Was braucht man um auf die Netherdecke zu kommen",
@@ -774,7 +774,7 @@
                     "Antwort2": "Enderperle",
                     "Antwort3": "Leiter + Enderperle",
                     "Richtig": 3,
-                    "id": "ID: 3.09"
+                    "id": "3.09"
                     },
                     {
                     "Frage": "Wie kann man Wasser im Nether setzen",
@@ -782,7 +782,7 @@
                     "Antwort2": "Im Kessel",
                     "Antwort3": "Mit Netherite Eimer",
                     "Richtig": 2,
-                    "id": "ID: 3.10"
+                    "id": "3.10"
                     },
                     {
                     "Frage": "Wo spawnen schwarze Katzen",
@@ -790,7 +790,7 @@
                     "Antwort2": "Sumpfhütten und Dörfer",
                     "Antwort3": "Es giebt keine schwarze Katzen",
                     "Richtig": 1,
-                    "id": "ID: 3.11"
+                    "id": "3.11"
                     },
                     {
                     "Frage": "Woher bekommt man Schwämme",
@@ -798,7 +798,7 @@
                     "Antwort2": "Korallen",
                     "Antwort3": "Fischen",
                     "Richtig": 1,
-                    "id": "ID: 3.12"
+                    "id": "3.12"
                     },
                     {
                     "Frage": "Was hiervon braucht man umbedingt für eine Eisenfarm",
@@ -806,7 +806,7 @@
                     "Antwort2": "1 Dorf",
                     "Antwort3": "1 Eisengolem",
                     "Richtig": 2,
-                    "id": "ID: 3.13"
+                    "id": "3.13"
                     },
                     {
                     "Frage": "Wie viele TNT-Blöcke sind in einer Pyramide",
@@ -814,7 +814,7 @@
                     "Antwort2": "6",
                     "Antwort3": "9",
                     "Richtig": 3,
-                    "id": "ID: 3.14"
+                    "id": "3.14"
                     },
                     {
                     "Frage": "Wie viele Arten von Holzbrättern giebt es",
@@ -822,7 +822,7 @@
                     "Antwort2": "7",
                     "Antwort3": "5",
                     "Richtig": 1,
-                    "id": "ID: 3.15"
+                    "id": "3.15"
                     },
                     {
                     "Frage": "Kann man mithilfe von Lava ein Netherportal anzünden",
@@ -830,7 +830,7 @@
                     "Antwort2": "Nein",
                     "Antwort3": null,
                     "Richtig": 1,
-                    "id": "ID: 3.16"
+                    "id": "3.16"
                     },
                     {
                     "Frage": "Was ist die aktuelle Maximale und Minimale Bauhöhe",
@@ -838,7 +838,7 @@
                     "Antwort2": "-64 - 320",
                     "Antwort3": "0 - 356",
                     "Richtig": 2,
-                    "id": "ID: 3.17"
+                    "id": "3.17"
                     },
                     {
                     "Frage": "Braucht man um auf einem Skeletpferd zu reiten einen Sattel",
@@ -846,7 +846,7 @@
                     "Antwort2": "Nein",
                     "Antwort3": null,
                     "Richtig": 1,
-                    "id": "ID: 3.18"
+                    "id": "3.18"
                     },
                     {
                     "Frage": "Aus wievielen Bruchsteinblöcken besteht ein Ofen",
@@ -854,7 +854,7 @@
                     "Antwort2": "9",
                     "Antwort3": "8",
                     "Richtig": 3,
-                    "id": "ID: 3.19"
+                    "id": "3.19"
                     },
                     {
                     "Frage": "Welches Lebensmittel in Minecraft stellt die meisten Hungerpunkte wieder her",
@@ -862,7 +862,7 @@
                     "Antwort2": "Karotten",
                     "Antwort3": "Rote Beete",
                     "Richtig": 1,
-                    "id": "ID: 3.20"
+                    "id": "3.20"
                     },
                     {
                     "Frage": "Nach wievielen schlaflosen Tagen spawnen Phantome",
@@ -870,7 +870,7 @@
                     "Antwort2": "5",
                     "Antwort3": "3",
                     "Richtig": 3,
-                    "id": "ID: 3.21"
+                    "id": "3.21"
                     },
                     {
                     "Frage": "Welches reale Tier lieh dem Ghast seine Stimme",
@@ -878,7 +878,7 @@
                     "Antwort2": "Hund",
                     "Antwort3": "Hyäne",
                     "Richtig": 1,
-                    "id": "ID: 3.22"   
+                    "id": "3.22"   
                     }
     ]
     }

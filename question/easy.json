@@ -6,7 +6,7 @@
 "Antwort2": "Mit farbigem Wasser",
 "Antwort3": "Mit Farbstoff",
 "Richtig": 3,
-"id": "ID: 2.00"
+"id": "2.00"
 },
 {
 "Frage": "Kann man im Nether schlafen",
@@ -14,7 +14,7 @@
 "Antwort2": "Nein",
 "Antwort3": "Nur Nachts",
 "Richtig": 2,
-"id": "ID: 2.01"
+"id": "2.01"
 },
 {
 "Frage": "Wie bekommt man Blätterblöcke",
@@ -22,7 +22,7 @@
 "Antwort2": "Mit einer Schere",
 "Antwort3": "Mit einer Hacke",
 "Richtig": 2,
-"id": "ID: 2.02"
+"id": "2.02"
 },
 {
 "Frage": "Wie viel Blöcke Obsidian braucht man mindestens für ein Netherportal",
@@ -30,7 +30,7 @@
 "Antwort2": "14",
 "Antwort3": "12",
 "Richtig": 1,
-"id": "ID: 2.03"
+"id": "2.03"
 },
 {
 "Frage": "Vor was hat ein Enderman Angst",
@@ -38,7 +38,7 @@
 "Antwort2": "Wasser",
 "Antwort3": "Katzen",
 "Richtig": 2,
-"id": "ID: 2.04"
+"id": "2.04"
 },
 {
 "Frage": "Was von dieser Auswahl kann man benutzen um einen Craftingtable zu bauen",
@@ -46,7 +46,7 @@
 "Antwort2": "3 Holzbrätter",
 "Antwort3": "2 Stöcke, 2 Holzbretter",
 "Richtig": 1,
-"id": "ID: 2.05"
+"id": "2.05"
 },
 {
 "Frage": "Was kann man aus einem Totem Busch bekommen wenn man ihn abbaut?",
@@ -54,7 +54,7 @@
 "Antwort2": "Stöcke",
 "Antwort3": "Toter Busch",
 "Richtig": 2,
-"id": "ID: 2.06"
+"id": "2.06"
 },
 {
 "Frage": "Mit welcher Taste kann man sich seine Koordinaten anzeigen (Java)",
@@ -62,7 +62,7 @@
 "Antwort2": "F4",
 "Antwort3": "F3",
 "Richtig": 3,
-"id": "ID: 2.07"
+"id": "2.07"
 },
 {
 "Frage": "Wie lässt man alle Effekte sofort verfallen",
@@ -70,7 +70,7 @@
 "Antwort2": "Ins Wasser springen",
 "Antwort3": "Milch trinken",
 "Richtig": 3,
-"id": "ID: 2.08"
+"id": "2.08"
 },
 {
 "Frage": "Wie heilt man einen Zombivillager",
@@ -78,7 +78,7 @@
 "Antwort2": "Schwächetrank + Goldapfel",
 "Antwort3": "Goldapfel",
 "Richtig": 2,
-"id": "ID: 2.09"
+"id": "2.09"
 },
 {
 "Frage": "Giebt es rote Kühe",
@@ -86,7 +86,7 @@
 "Antwort2": "Nein",
 "Antwort3": null,
 "Richtig": 1,
-"id": "ID: 2.10"
+"id": "2.10"
 },
 {
 "Frage": "Wie viele Spinnenarten giebt es",
@@ -94,7 +94,7 @@
 "Antwort2": "1",
 "Antwort3": "4",
 "Richtig": 1,
-"id": "ID: 2.11"
+"id": "2.11"
 },
 {
 "Frage": "In welcher Schwierigkeit kann man an Hunger sterben",
@@ -102,7 +102,7 @@
 "Antwort2": "Normal",
 "Antwort3": "Schwer",
 "Richtig": 3,
-"id": "ID: 2.12"
+"id": "2.12"
 },
 {
 "Frage": "Vor welchem Tier hat ein Creeper angst",
@@ -110,7 +110,7 @@
 "Antwort2": "Hunde",
 "Antwort3": "Schafe",
 "Richtig": 1,
-"id": "ID: 2.13"
+"id": "2.13"
 },
 {
 "Frage": "Was braucht man um einen Eisengolem zu bauen",
@@ -118,7 +118,7 @@
 "Antwort2": "2 Eisenblöcke + 1 geschnitzter Kürbis",
 "Antwort3": "4 Eisenblöcke + 1 Kürbis",
 "Richtig": 1,
-"id": "ID: 2.14"
+"id": "2.14"
 },
 {
 "Frage": "Kann man einen Enderman mit einem Bogen abschießen",
@@ -126,7 +126,7 @@
 "Antwort2": "Nein",
 "Antwort3": null,
 "Richtig": 2,
-"id": "ID: 2.15"
+"id": "2.15"
 },
 {
 "Frage": "Welcher Mob droppt ein Totem",
@@ -134,7 +134,7 @@
 "Antwort2": "Whither",
 "Antwort3": "Evoker",
 "Richtig": 3,
-"id": "ID: 2.16"
+"id": "2.16"
 },
 {
 "Frage": "Welcher Job braucht ein Villager, um Pfeile zu traden",
@@ -142,7 +142,7 @@
 "Antwort2": "Cleric",
 "Antwort3": "Butcher",
 "Richtig": 1,
-"id": "ID: 2.17"
+"id": "2.17"
 },
 {
 "Frage": "Wie stellt man eine große Kiste her",
@@ -150,7 +150,7 @@
 "Antwort2": "Drei Kisten nebeneinander stellen",
 "Antwort3": "Zwei Kisten nebeneinander stellen",
 "Richtig": 3,
-"id": "ID: 2.18"
+"id": "2.18"
 },
 {
 "Frage": "Was passiert mit einem Kessel, der im Regen steht",
@@ -158,7 +158,7 @@
 "Antwort2": "Er füllt sich",
 "Antwort3": "Nichts",
 "Richtig": 2,
-"id": "ID: 2.19"
+"id": "2.19"
 },
 {
 "Frage": "Wie viele Dimensionen giebt es in Minecraft",
@@ -166,7 +166,7 @@
 "Antwort2": "2",
 "Antwort3": "3",
 "Richtig": 3,
-"id": "ID: 2.20"
+"id": "2.20"
 },
 {
 "Frage": "Welcher Mob brennt im Sonnenlicht",
@@ -174,7 +174,7 @@
 "Antwort2": "Zombi",
 "Antwort3": "Enderman",
 "Richtig": 2,
-"id": "ID: 2.21"
+"id": "2.21"
 },
 {
 "Frage": "Wie lange dauert ein Tag in Minecraft",
@@ -182,7 +182,7 @@
 "Antwort2": "10 Minuten",
 "Antwort3": "15 Minuten",
 "Richtig": 1,
-"id": "ID: 2.22"
+"id": "2.22"
 },
 {
 "Frage": "Welches Tier bringt dir ein Geschenk, wenn du schläfst",
@@ -190,7 +190,7 @@
 "Antwort2": "Lamas",
 "Antwort3": "Schweine",
 "Richtig": 1,
-"id": "ID: 2.23"
+"id": "2.23"
 },
 {
 "Frage": "War braucht man um einen Bogen zu craften",

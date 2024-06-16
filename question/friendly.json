@@ -6,7 +6,7 @@
 "Antwort2": "Stein",
 "Antwort3": "Eisen",
 "Richtig": 1,
-"id": "ID: 1.00"
+"id": "1.00"
 },
 {
 "Frage": "Was macht man in seiner aller ersten Minecraft Nacht",
@@ -14,7 +14,7 @@
 "Antwort2": "Ängstlich einbauen",
 "Antwort3": "Jedes Monster Töten",
 "Richtig": 2,
-"id": "ID: 1.01"
+"id": "1.01"
 },
 {
 "Frage": "Mit welchem Item füttert man ein Huhn",
@@ -22,7 +22,7 @@
 "Antwort2": "Weizen",
 "Antwort3": "Samen",
 "Richtig": 3,
-"id": "ID: 1.02"
+"id": "1.02"
 },
 {
 "Frage": "Fleißt Wasser schneller als Lava",
@@ -30,7 +30,7 @@
 "Antwort2": "Nein",
 "Antwort3": "Ja, im Nether",
 "Richtig": 1,
-"id": "ID: 1.03"
+"id": "1.03"
 },
 {
 "Frage": "Wie viele Bretter ergeben 13 Holzstämme",
@@ -38,7 +38,7 @@
 "Antwort2": "64",
 "Antwort3": "48",
 "Richtig": 1,
-"id": "ID: 1.04"
+"id": "1.04"
 },
 {
 "Frage": "Wie groß ist ein Stack Schneebälle ",
@@ -46,7 +46,7 @@
 "Antwort2": "16",
 "Antwort3": "45",
 "Richtig": 2,
-"id": "ID: 1.05"
+"id": "1.05"
 },
 {
 "Frage": "Welches Tier dropt Leder",
@@ -54,7 +54,7 @@
 "Antwort2": "Schaf",
 "Antwort3": "Kuh",
 "Richtig": 3,
-"id": "ID: 1.06"
+"id": "1.06"
 },
 {
 "Frage": "Können in der Schwierigkeit Friedlich feindliche Mobs spawnen",
@@ -62,7 +62,7 @@
 "Antwort2": "Nur Creeper",
 "Antwort3": "Nein",
 "Richtig": 3,
-"id": "ID: 1.07"
+"id": "1.07"
 },
 {
 "Frage": "Mit welcher dieser Spitzhacken kann man einen Diamanten abbauen",
@@ -70,7 +70,7 @@
 "Antwort2": "Eisenspitzhacke",
 "Antwort3": "Goldspitzhacke",
 "Richtig": 2,
-"id": "ID: 1.08"
+"id": "1.08"
 },
 {
 "Frage": "Was passiert wenn man mit einem Delphin schwimmt",
@@ -78,7 +78,7 @@
 "Antwort2": "Man zähmt ihn",
 "Antwort3": "Man wird schneller",
 "Richtig": 3,
-"id": "ID: 1.09"
+"id": "1.09"
 },
 {
 "Frage": "Was braucht man um auf einem Schwein zu sitzen",
@@ -86,7 +86,7 @@
 "Antwort2": "Sattel",
 "Antwort3": "Schweinerüstung",
 "Richtig": 2,
-"id": "ID: 1.10"
+"id": "1.10"
 },
 {
 "Frage": "Wie heißt der erste Skin den jeder hat",
@@ -94,7 +94,7 @@
 "Antwort2": "Gustav",
 "Antwort3": "Wolfgang",
 "Richtig": 1,
-"id": "ID: 1.11"
+"id": "1.11"
 },
 {
 "Frage": "Giebt es in Minecraft einen Mond",
@@ -102,7 +102,7 @@
 "Antwort2": "Nein",
 "Antwort3": null,
 "Richtig": 1,
-"id": "ID: 1.12"
+"id": "1.12"
 },
 {
 "Frage": "Geht die minimale Bauhöhe in der 1.18 in den negativen Bereich", 
@@ -110,7 +110,7 @@
 "Antwort2": "Nein",
 "Antwort3": null,
 "Richtig": 1,
-"id": "ID: 1.13"
+"id": "1.13"
 },
 {
 "Frage": "Kann man in Minecraft Java seinen eigenen Skin zeichnen und benutzen",
@@ -118,7 +118,7 @@
 "Antwort2": "Nein",
 "Antwort3": null,
 "Richtig": 1,
-"id": "ID: 1.14"
+"id": "1.14"
 },
 {
 "Frage": "Können rote Schafe spawnen",
@@ -126,7 +126,7 @@
 "Antwort2": "Nein",
 "Antwort3": null,
 "Richtig": 1,
-"id": "ID: 1.15"
+"id": "1.15"
 },
 {
 "Frage": "Wie vermehrt man zwei gleiche Tiere",
@@ -134,7 +134,7 @@
 "Antwort2": "Beide füttern",
 "Antwort3": "Beide in ein Boot setzen",
 "Richtig": 2,
-"id": "ID: 1.16"
+"id": "1.16"
 },
 {
 "Frage": "Was dropt ein Eisengolem noch außer Eisen",
@@ -142,7 +142,7 @@
 "Antwort2": "Eimer",
 "Antwort3": "Sonnenblume",
 "Richtig": 1,
-"id": "ID: 1.17"
+"id": "1.17"
 },
 {
 "Frage": "Was passiert, wenn man im Nether Wasser platziert",
@@ -150,7 +150,7 @@
 "Antwort2": "Es fließt ganz langsam",
 "Antwort3": "Es verdampft",
 "Richtig": 3,
-"id": "ID: 1.18"
+"id": "1.18"
 },
 {
 "Frage": "Was passiert, wenn man mit einer Schaufel Rechtsklick auf einen Grasblock macht",
@@ -158,7 +158,7 @@
 "Antwort2": "Wird zum Weg",
 "Antwort3": "Nichts",
 "Richtig": 2,
-"id": "ID: 1.19"
+"id": "1.19"
 },
 {
 "Frage": "Wie viele Leben hat der Spieler",
@@ -166,7 +166,7 @@
 "Antwort2": "10",
 "Antwort3": "15",
 "Richtig": 1,
-"id": "ID: 1.20"
+"id": "1.20"
 },
 {
 "Frage": "Wie groß ist der Spieler",
@@ -174,7 +174,7 @@
 "Antwort2": "3 Blöcke",
 "Antwort3": "2 Blöcke",
 "Richtig": 3,
-"id": "ID: 1.21"
+"id": "1.21"
 },
 {
 "Frage": "Aus welchem Material besteht die Werkbank",
