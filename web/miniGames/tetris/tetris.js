@@ -43,9 +43,9 @@ function createMatrix(w, h) {
 function createPiece(type) {
     if (type === 'T') {
         return [
-            [0, 0, 0],
-            [1, 1, 1],
             [0, 1, 0],
+            [1, 1, 1],
+            [0, 0, 0],
         ];
     } else if (type === 'O') {
         return [
@@ -60,8 +60,8 @@ function createPiece(type) {
         ];
     } else if (type === 'J') {
         return [
-            [0, 4, 0],
-            [0, 4, 0],
+            [4, 4, 0],
+            [4, 4, 0],
             [4, 4, 0],
         ];
     } else if (type === 'I') {
@@ -73,14 +73,14 @@ function createPiece(type) {
         ];
     } else if (type === 'S') {
         return [
-            [0, 6, 6],
-            [6, 6, 0],
+            [6, 6, 6],
+            [6, 6, 6],
             [0, 0, 0],
         ];
     } else if (type === 'Z') {
         return [
-            [7, 7, 0],
-            [0, 7, 7],
+            [7, 7, 7],
+            [7, 7, 7],
             [0, 0, 0],
         ];
     }
