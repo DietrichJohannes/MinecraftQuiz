@@ -23,6 +23,7 @@ function Snackbar(text){
     setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
   }
 
+
   async function loadSplashText(){
   fetch(InfoUrl)
   .then(res => res.json())
