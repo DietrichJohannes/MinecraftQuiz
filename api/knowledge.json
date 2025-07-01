@@ -13,8 +13,10 @@
             "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTL-_J8qDEXe7xDUUePfApdkkJB3TffeJ2yazEgvr_-PozmzOAxpAO5QGWC1b6eSSmGr4gNzBm1bzZgeC8SMlVvlL1D-1k8oBRqnGJbXTo3NkqozsY6yAR9boZr4OuE7W2WwORzsw&usqp=CAc"
         },
         {
-            'title': "KNX Aktor",
-            'description': "KNX Aktor zum Schalten von Leuchten"
+            "title":  "Siemens KNX Actor",
+            "description_short": "Zum schalten von leuchten",
+            "description_logng": "Kann über die ETS Platform programmiert werden",
+            "img_url": ""
         }
     ]
 }
